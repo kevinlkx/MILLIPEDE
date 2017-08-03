@@ -11,6 +11,7 @@ Reference:
 
 [MILLIPEDE workflow][workflowr]
 
-[workflowr]: https://github.com/kevinlkx/MILLIPEDE/blob/master/docs/millipede_analysis.html
+[workflowr]: https://kevinlkx.github.io/MILLIPEDE/
+
 
 
