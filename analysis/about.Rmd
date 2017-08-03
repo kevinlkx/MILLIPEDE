@@ -1,8 +1,12 @@
 ---
-title: "About"
+title: "Reference"
 output:
   html_document:
     toc: false
 ---
 
-Describe your project.
+Cite MILLIPEDE model: 
+
+* Luo K, Hartemink AJ. 2013. Using DNase digestion data to accurately identify transcription factor binding sites. Pac Symp Biocomput, 2013 pp. 80-91.
+
+
