@@ -7,11 +7,12 @@ Reference:
 
 * Luo K, Hartemink AJ. Using DNase digestion data to accurately identify transcription factor binding sites. Pac Symp Biocomput, 2013 pp. 80-91.
 
-## MILLIPEDE analysis workflow
+## MILLIPEDE analysis [workflow][]
 
-[MILLIPEDE workflow][workflowr]
-
-[workflowr]: https://kevinlkx.github.io/MILLIPEDE/
+[workflow]: https://kevinlkx.github.io/MILLIPEDE/
 
 
+## [data][] used in MILLIPEDE analysis
+
+[data]: https://github.com/kevinlkx/MILLIPEDE/tree/master/data
 
