@@ -9,7 +9,7 @@ tfName <- args[2]
 pwm_score <- args[3]
 
 ## load pwm scores and convert to a GenomicRanges object
-tf_pwm.df <- read.table(paste("~/MNaseData/Model/PWM/motif_scan/PWMoutput/motif", motifID, "_score", pwm_score, ".txt", sep =""), header = T)
+tf_pwm.df <- read.table(paste0("~/MNaseData/Model/PWM/motif_scan/PWMoutput/motif", motifID, "_score", pwm_score, ".txt"), header = TRUE)
 
 tf.gr <- GRanges(
   seqnames = Rle(as.integer(as.roman(as.character(tf_pwm.df$chr)))),
