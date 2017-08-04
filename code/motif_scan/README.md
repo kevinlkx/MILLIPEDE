@@ -1,8 +1,8 @@
 # Scan for motif matches using the perl scripts and myQTL database
 
---
 
-#### Scan for Reb1 motif matches in yeast with a threshold of pwm_score >= 4.
+
+Example: scan for Reb1 motif matches in yeast using a threshold of pwm_score >= 4.
 
 parameters:
 
