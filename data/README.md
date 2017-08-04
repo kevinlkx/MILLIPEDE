@@ -1,16 +1,16 @@
 # Data used for MILLIPEDE analysis
 
-## yeast
+## yeast data
 
-### Files used for motif scanning
+* Yeast genome (UCSC June 2008 sacCer2) FASTA files can be downloaded from [UCSC][genome]
 
-#### The background file of genomic percentages for different $k$-mers
+[genome]: http://hgdownload.cse.ucsc.edu/goldenPath/sacCer2/chromosomes/
 
-Background file: bg_all.tab
+* The background file of genomic percentages for different $k$-mers: **bg_all.tab**
 
-#### MacIsaac motifs
+* MacIsaac motifs are in the folder [tf\_coord\_updated\_macisaac][motif]
 
-MacIsaac motifs are in the folder: tf\_coord\_updated\_macisaac
+[motif]: tf\_coord\_updated\_macisaac
 
 
 
