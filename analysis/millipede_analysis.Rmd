@@ -26,6 +26,19 @@ knitr::read_chunk("chunks.R")
 
 ###  Step 1: find candidate binding sites by scanning for motif matches along the genome
 
+* Yeast genome (UCSC June 2008 sacCer2) FASTA files can be downloaded from [UCSC][genome]
+
+[genome]: http://hgdownload.cse.ucsc.edu/goldenPath/sacCer2/chromosomes/
+
+* Background file is [bg_all.tab][bg]
+
+[bg]: data/bg_all.tab
+
+* TF motif files can be found in [tf_coord_updated_macisaac][motif]
+
+[motif]: ../data/tf_coord_updated_macisaac
+
+
 ### Step 2: extract DNase cuts around the candidate binding sites
 
 ### Step 3: bin DNase cuts
