@@ -11,7 +11,7 @@ echo tf_name: ${tf_name}
 echo PWM_score: ${pwm_score}
 
 ## scan motif matches and save in mySQL database
-echo perl /home/home4/kevinluo/MNaseData/Model/PWM/motif_scan/Perl_Functions/motif_scan_cs.pl \
+perl /home/home4/kevinluo/MNaseData/Model/PWM/motif_scan/Perl_Functions/motif_scan_cs.pl \
 --n=4 \
 --pwm=/home/home4/kevinluo/MNaseData/Model/PWM/motif_scan/motif_files/tf_coord_updated_macisaac/${tf_name}.pwm \
 --motif_id=${motif_id} \
@@ -20,11 +20,11 @@ echo perl /home/home4/kevinluo/MNaseData/Model/PWM/motif_scan/Perl_Functions/mot
 --min_score=2
 
 ## extract motif matches from the mySQL database
-echo perl /home/home4/kevinluo/MNaseData/Model/PWM/motif_scan/Perl_Functions/get_pwm_dbi_cs.pl \
+perl /home/home4/kevinluo/MNaseData/Model/PWM/motif_scan/Perl_Functions/get_pwm_dbi_cs.pl \
 --motif_id=${motif_id} \
 --score=${pwm_score}
 
 ## convert the results into a GenomicRanges object
-echo Rscript /home/home4/kevinluo/MNaseData/Model/PWM/motif_scan/Perl_Functions/pwm2gr.R ${motif_id} ${tf_name} ${pwm_score}
+Rscript /home/home4/kevinluo/MNaseData/Model/PWM/motif_scan/Perl_Functions/pwm2gr.R ${motif_id} ${tf_name} ${pwm_score}
 
 
