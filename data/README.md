@@ -6,7 +6,7 @@
 
 [genome]: http://hgdownload.cse.ucsc.edu/goldenPath/sacCer2/chromosomes/
 
-* The background file of genomic percentages for different $k$-mers: **bg_all.tab**
+* The background file of genomic percentages for different k-mers: **bg_all.tab**
 
 * MacIsaac motifs are in the folder [tf\_coord\_updated\_macisaac][motif]
 
