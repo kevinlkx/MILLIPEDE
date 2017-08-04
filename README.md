@@ -16,3 +16,6 @@ Reference:
 
 [data]: https://github.com/kevinlkx/MILLIPEDE/tree/master/data
 
+## MILLIPEDE [download][]
+
+[download]: https://users.cs.duke.edu/~amink/software/millipede/
