@@ -8,9 +8,9 @@ source("lr_functions.R")
 source("fitCentipede_footprint.R")
 
 # Set parameters
-# args <- commandArgs(trailingOnly=T);
-# tf <- args[1]
-tf <- "mcm1"
+args <- commandArgs(trailingOnly=T);
+tf <- args[1]
+# tf <- "reb1"
 
 tfName <- paste(tf,"_macisaac_score4",sep = "")
 flank_data <- 100
@@ -37,7 +37,6 @@ tFPR <- 1.0/100
 
 millipede_analysis <- function(k, weights){
 
-  browser()
   if(sum(tf == chipexoList)){
     chipexo <- T
   }else{
@@ -59,7 +58,7 @@ millipede_analysis <- function(k, weights){
   # filter sites by mappability (remove the sites with more than > 20% unmappable bases) and start position > 0
   unmappablebases.gr <- get(load("../../data/yeast_data/mappablity/unmappablebases_sacCer2.gr"))
 
-  cat(length(tf_overlap.gr), " - start position > 0 and mappable -> ")
+  cat(length(tf_overlap.gr), " -> [start position > 0 and mappable] -> ")
   select_idx <- mappability(tf_overlap.gr, unmappablebases.gr, ThreshAvgMappability)
 
   tf_overlap.gr <- tf_overlap.gr[select_idx]
@@ -255,7 +254,7 @@ millipede_analysis <- function(k, weights){
 
 ## fit CENTIPEDE model
 centipede_dnase <- function(DNaseData, pwm){
-
+  cat("fit CENTIPEDE \n")
   Xlist <- list(DNase = as.matrix(DNaseData))
   Y <- cbind(rep(1, length(pwm)), pwm)
 
