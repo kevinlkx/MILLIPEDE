@@ -179,16 +179,16 @@ mappability = function(tf_overlap.gr, unmappablebases.gr, ThreshAvgMappability){
 }
 
 
-label_chipexo = function(tf.gr, chipexo.gr){
-  overlapIndex.df = as.data.frame(as.matrix(findOverlaps(tf.gr, chipexo.gr, type = "within")))
+label_chipexo = function(tf.gr, chipexo.gr, type_overlap = "within"){
+  overlapIndex.df = as.data.frame(as.matrix(findOverlaps(tf.gr, chipexo.gr, type = type_overlap)))
   elementMetadata(tf.gr)[,"chip_exo"] = 0
   elementMetadata(tf.gr)[,"chip_exo"][overlapIndex.df$query] = 1
   return(tf.gr)
 }
 
-label_macisaac = function(tf.gr, MacIsaac.gr){
+label_macisaac = function(tf.gr, MacIsaac.gr, type_overlap = "within"){
   strand(MacIsaac.gr) = "*"
-  overlapIndex.df = as.data.frame(as.matrix(findOverlaps(tf.gr, MacIsaac.gr, type ="within")))
+  overlapIndex.df = as.data.frame(as.matrix(findOverlaps(tf.gr, MacIsaac.gr, type = type_overlap)))
   elementMetadata(tf.gr)[,"label"] = 0
   elementMetadata(tf.gr)[,"label"][overlapIndex.df$query] = 1
   return(tf.gr)

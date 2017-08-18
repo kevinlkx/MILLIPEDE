@@ -10,7 +10,7 @@ source("fitCentipede_footprint.R")
 # Set parameters
 # args <- commandArgs(trailingOnly=T);
 # tf <- args[1]
-tf <- "reb1"
+tf <- "mcm1"
 
 tfName <- paste(tf,"_macisaac_score4",sep = "")
 flank_data <- 100
@@ -37,6 +37,7 @@ tFPR <- 1.0/100
 
 millipede_analysis <- function(k, weights){
 
+  browser()
   if(sum(tf == chipexoList)){
     chipexo <- T
   }else{

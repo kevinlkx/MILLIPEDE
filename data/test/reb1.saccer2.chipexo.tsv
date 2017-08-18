@@ -1,0 +1,1777 @@
+# Chorm	Peak coor	CW distance	Replicates	Occupancy	Motif coor	Motif sequence	Error distance	Classification
+chrI	52	28	3	123	-	3 mismatches	-	secondary
+chrI	96	40	2	364	97	2 mismatches	1	secondary
+chrI	133	28	4	2191	133	TTACCCT	0	primary
+chrI	213	20	3	124	223	TTACCCT	10	secondary
+chrI	249	19	2	147	259	TTACCCT	9	primary
+chrI	294	44	3	41	312	2 mismatches	17	secondary
+chrI	354	12	3	33	364	TTACCCT	10	secondary
+chrI	424	38	2	73	-	3 mismatches	-	secondary
+chrI	465	27	3	428	466	TTACCCT	0	primary
+chrI	505	31	3	36	-	3 mismatches	-	secondary
+chrI	6435	28	2	33	6436	1 mismatches	0	monomer
+chrI	39098	25	3	38	39098	TTACCCG	0	monomer
+chrI	45557	26	3	73	45557	TTACCCG	0	monomer
+chrI	87127	20	2	71	87135	2 mismatches	8	secondary
+chrI	87168	25	4	1285	87169	TTACCCT	0	primary
+chrI	87202	35	2	75	87195	2 mismatches	-7	secondary
+chrI	92662	28	4	189	92663	1 mismatches	0	monomer
+chrI	119766	15	3	141	119772	TTACCCG	6	monomer
+chrI	169128	31	4	56	169129	1 mismatches	0	monomer
+chrI	229735	26	2	107	229734	TTACCCG	-1	monomer
+chrII	5905	34	4	168	5908	TTACCCT	2	secondary
+chrII	5938	29	3	436	5939	TTACCCT	1	primary
+chrII	6009	31	2	72	6024	TTACCCT	14	secondary
+chrII	6067	13	3	147	6061	TTACCCT	-6	primary
+chrII	6193	29	2	54	-	3 mismatches	-	secondary
+chrII	6279	30	2	57	6273	TTACCCT	-6	primary
+chrII	18052	11	3	65	18058	1 mismatches	6	monomer
+chrII	23898	15	4	67	23908	1 mismatches	10	monomer
+chrII	36568	9	3	33	36555	1 mismatches	-13	monomer
+chrII	60039	24	3	48	60039	TTACCCT	0	monomer
+chrII	62801	11	2	56	62810	TTACCCG	9	monomer
+chrII	69654	26	4	117	69653	TTACCCG	-1	monomer
+chrII	79794	26	3	29	79794	TTACCCT	0	monomer
+chrII	80881	26	2	101	80882	1 mismatches	0	primary
+chrII	80912	31	3	22	80914	1 mismatches	2	secondary
+chrII	82449	17	4	155	82430	TTACCCT	-19	monomer
+chrII	84434	26	4	188	84436	TTACCCG	1	primary
+chrII	84499	31	2	18	-	3 mismatches	-	secondary
+chrII	111085	11	2	30	-	3 mismatches	-	monomer
+chrII	111215	20	2	33	-	3 mismatches	-	secondary
+chrII	111265	40	2	78	-	3 mismatches	-	secondary
+chrII	111301	28	4	1216	111301	TTACCCG	0	primary
+chrII	116909	34	2	23	116909	2 mismatches	0	secondary
+chrII	116978	28	4	251	116980	1 mismatches	1	primary
+chrII	122196	13	2	25	-	3 mismatches	-	secondary
+chrII	122233	22	4	261	122232	TTACCCG	-1	primary
+chrII	124958	27	4	1454	124958	TTACCCT	0	primary
+chrII	124997	8	2	82	125004	2 mismatches	6	secondary
+chrII	132307	27	4	411	132308	TTACCCG	0	monomer
+chrII	135845	23	2	28	135847	2 mismatches	2	secondary
+chrII	135889	24	4	461	135891	1 mismatches	1	secondary
+chrII	135920	27	4	488	135920	TTACCCT	0	primary
+chrII	135984	12	3	34	135989	2 mismatches	5	secondary
+chrII	143016	18	3	81	143007	1 mismatches	-9	primary
+chrII	143065	10	2	18	143048	2 mismatches	-16	secondary
+chrII	151358	28	4	778	151358	TTACCCG	0	primary
+chrII	151395	23	2	38	-	3 mismatches	-	secondary
+chrII	164960	27	2	26	164946	2 mismatches	-14	secondary
+chrII	165004	25	3	105	165004	TTACCCG	0	primary
+chrII	201835	4	2	43	201844	2 mismatches	9	secondary
+chrII	201876	25	4	792	201877	TTACCCT	1	primary
+chrII	201912	27	3	43	-	3 mismatches	-	secondary
+chrII	202496	29	4	171	202489	1 mismatches	-7	monomer
+chrII	203225	38	2	62	203223	2 mismatches	-1	secondary
+chrII	203264	22	4	99	203266	1 mismatches	1	primary
+chrII	242704	20	3	52	242701	TTACCCT	-3	monomer
+chrII	273860	29	4	171	273860	1 mismatches	0	primary
+chrII	273921	44	2	26	-	3 mismatches	-	secondary
+chrII	276636	27	4	245	276636	TTACCCG	0	monomer
+chrII	307081	27	4	642	307081	TTACCCG	0	primary
+chrII	307128	21	3	65	307125	2 mismatches	-2	secondary
+chrII	310478	27	4	143	310479	1 mismatches	0	monomer
+chrII	336943	26	3	235	336943	TTACCCT	0	primary
+chrII	336989	21	2	22	-	3 mismatches	-	secondary
+chrII	337081	28	4	823	337081	TTACCCG	0	primary
+chrII	340870	27	4	637	340870	TTACCCG	0	monomer
+chrII	369835	27	4	352	369835	TTACCCT	0	monomer
+chrII	378058	15	3	37	378051	1 mismatches	-7	monomer
+chrII	392013	36	4	355	392000	TTACCCT	-13	monomer
+chrII	392450	26	3	81	392450	1 mismatches	0	monomer
+chrII	398420	25	3	34	398419	TTACCCG	-1	monomer
+chrII	405484	26	4	470	405484	TTACCCG	0	primary
+chrII	427033	21	2	22	427046	1 mismatches	13	monomer
+chrII	427617	26	4	124	427618	TTACCCT	0	monomer
+chrII	435776	22	2	50	-	3 mismatches	-	secondary
+chrII	435818	27	4	563	435818	1 mismatches	0	primary
+chrII	466543	29	4	624	466543	1 mismatches	0	primary
+chrII	466585	28	3	114	-	3 mismatches	-	secondary
+chrII	490653	19	3	78	490656	2 mismatches	3	primary
+chrII	490697	30	2	28	490677	2 mismatches	-19	secondary
+chrII	492997	25	3	75	492991	TTACCCG	-6	monomer
+chrII	497026	28	4	340	497026	TTACCCG	0	monomer
+chrII	504625	42	3	44	504646	1 mismatches	20	monomer
+chrII	532308	32	2	18	-	3 mismatches	-	secondary
+chrII	532377	20	4	559	532372	TTACCCG	-5	primary
+chrII	532421	16	2	30	-	3 mismatches	-	secondary
+chrII	565491	21	2	39	565491	2 mismatches	0	secondary
+chrII	565523	25	4	684	565524	TTACCCG	0	primary
+chrII	565570	23	3	32	565585	2 mismatches	15	secondary
+chrII	568648	25	4	591	568650	TTACCCG	1	monomer
+chrII	578202	10	3	57	578214	TTACCCG	11	monomer
+chrII	582290	28	4	1081	582291	TTACCCG	0	primary
+chrII	582323	28	3	90	-	3 mismatches	-	secondary
+chrII	589293	27	4	936	589293	TTACCCG	0	primary
+chrII	589332	20	2	53	589341	2 mismatches	9	secondary
+chrII	595122	22	2	26	595117	1 mismatches	-5	monomer
+chrII	595735	27	4	417	595736	TTACCCT	0	monomer
+chrII	615269	19	2	35	615273	1 mismatches	3	monomer
+chrII	618709	26	4	295	618709	TTACCCG	0	primary
+chrII	618750	22	2	42	-	3 mismatches	-	secondary
+chrII	628160	29	3	170	628159	TTACCCT	-1	primary
+chrII	628191	40	2	88	-	3 mismatches	-	secondary
+chrII	628265	31	2	71	628258	2 mismatches	-6	secondary
+chrII	636781	27	2	43	636781	TTACCCG	0	monomer
+chrII	662716	27	4	2255	662715	TTACCCG	-1	primary
+chrII	662759	28	3	79	-	3 mismatches	-	secondary
+chrII	668683	14	2	148	668677	2 mismatches	-6	secondary
+chrII	668758	27	4	3399	668759	TTACCCG	0	primary
+chrII	668818	48	2	75	668821	2 mismatches	3	secondary
+chrII	679337	24	3	103	679339	TTACCCG	1	monomer
+chrII	686713	16	2	22	686720	1 mismatches	6	monomer
+chrII	691825	27	4	533	691825	TTACCCG	0	primary
+chrII	691855	25	2	43	-	3 mismatches	-	secondary
+chrII	723025	26	2	26	723042	1 mismatches	16	secondary
+chrII	723114	26	3	190	723115	1 mismatches	0	primary
+chrII	723153	30	2	30	-	3 mismatches	-	secondary
+chrII	728743	26	3	33	728743	TTACCCG	0	monomer
+chrIII	53	34	3	28	-	3 mismatches	-	primary
+chrIII	132	27	2	25	-	3 mismatches	-	secondary
+chrIII	235	34	3	32	-	3 mismatches	-	primary
+chrIII	279	33	3	16	-	3 mismatches	-	secondary
+chrIII	321	39	3	35	-	3 mismatches	-	secondary
+chrIII	356	29	3	54	373	2 mismatches	17	secondary
+chrIII	425	35	3	626	432	TTACCCT	7	primary
+chrIII	555	29	2	115	574	TTACCCT	18	monomer
+chrIII	784	35	3	146	770	TTACCCT	-14	monomer
+chrIII	24449	15	3	97	24444	1 mismatches	-5	monomer
+chrIII	31297	16	4	337	31293	1 mismatches	-3	monomer
+chrIII	50418	20	2	77	50405	2 mismatches	-13	secondary
+chrIII	50472	34	4	1730	50469	TTACCCT	-3	primary
+chrIII	51059	13	3	40	51050	1 mismatches	-9	monomer
+chrIII	51232	44	2	167	-	3 mismatches	-	secondary
+chrIII	51269	28	4	248	51289	TTACCCT	19	primary
+chrIII	51347	33	2	30	51362	2 mismatches	15	secondary
+chrIII	51403	1	2	23	51422	2 mismatches	19	secondary
+chrIII	51670	38	2	31	51676	TTACCCT	5	monomer
+chrIII	94478	28	4	459	94478	TTACCCG	0	monomer
+chrIII	120634	25	3	42	120640	TTACCCG	5	monomer
+chrIII	123972	26	4	305	123973	TTACCCG	1	monomer
+chrIII	137146	52	3	40	137142	2 mismatches	-4	secondary
+chrIII	137190	28	4	167	137190	TTACCCT	0	primary
+chrIII	147219	18	2	26	147220	TTACCCG	0	monomer
+chrIII	147788	25	4	87	147787	TTACCCG	-1	monomer
+chrIII	163649	22	3	45	163657	2 mismatches	8	primary
+chrIII	163711	14	2	29	163715	2 mismatches	3	secondary
+chrIII	178910	27	4	685	178911	TTACCCG	0	monomer
+chrIII	179106	24	2	24	179127	2 mismatches	20	monomer
+chrIII	179238	22	3	60	-	3 mismatches	-	secondary
+chrIII	179306	27	4	4515	179306	TTACCCG	0	primary
+chrIII	179343	44	2	403	-	3 mismatches	-	secondary
+chrIII	179383	43	2	44	179370	2 mismatches	-13	secondary
+chrIII	205531	31	4	426	205539	TTACCCG	7	monomer
+chrIII	236927	29	2	85	236940	2 mismatches	13	secondary
+chrIII	236970	26	4	689	236971	TTACCCG	1	primary
+chrIII	242489	26	3	63	242490	TTACCCG	0	monomer
+chrIII	266287	24	3	107	266301	2 mismatches	14	secondary
+chrIII	266322	28	4	4100	266323	TTACCCG	0	primary
+chrIII	266367	35	3	76	-	3 mismatches	-	secondary
+chrIII	286583	18	2	89	-	3 mismatches	-	secondary
+chrIII	286612	33	4	336	286615	TTACCCG	3	primary
+chrIII	289399	29	4	206	289399	TTACCCG	0	monomer
+chrIII	316085	27	2	26	-	3 mismatches	-	monomer
+chrIII	316373	14	3	54	316358	2 mismatches	-15	monomer
+chrIII	316520	13	3	28	316515	2 mismatches	-5	monomer
+chrIV	77	38	3	51	-	3 mismatches	-	secondary
+chrIV	157	19	3	154	159	2 mismatches	2	secondary
+chrIV	251	29	4	606	240	TTACCCT	-11	primary
+chrIV	38361	26	4	183	38361	TTACCCG	0	monomer
+chrIV	52303	27	4	1099	52303	TTACCCG	0	primary
+chrIV	52350	19	3	47	52359	2 mismatches	9	secondary
+chrIV	56826	35	4	1037	56822	TTACCCG	-4	primary
+chrIV	56857	42	3	190	56843	1 mismatches	-14	secondary
+chrIV	74272	25	4	187	74271	1 mismatches	-1	monomer
+chrIV	78096	25	3	441	78096	TTACCCG	0	primary
+chrIV	78137	19	3	43	78129	2 mismatches	-8	secondary
+chrIV	87296	46	2	25	-	3 mismatches	-	secondary
+chrIV	87346	27	4	277	87346	TTACCCG	0	primary
+chrIV	88120	27	4	132	88120	TTACCCG	0	monomer
+chrIV	125235	26	2	46	125233	2 mismatches	-1	secondary
+chrIV	125295	13	3	1409	125288	TTACCCG	-7	primary
+chrIV	125351	43	2	79	125349	2 mismatches	-1	secondary
+chrIV	125382	13	2	47	-	3 mismatches	-	secondary
+chrIV	129571	35	4	33	129578	TTACCCT	6	monomer
+chrIV	130602	36	2	31	-	3 mismatches	-	secondary
+chrIV	130643	41	4	621	130648	TTACCCT	5	primary
+chrIV	130710	22	3	43	130722	2 mismatches	12	secondary
+chrIV	145657	22	3	96	145656	1 mismatches	-1	monomer
+chrIV	147950	12	2	98	147954	2 mismatches	4	secondary
+chrIV	147989	20	3	195	-	3 mismatches	-	primary
+chrIV	148029	22	4	159	148026	2 mismatches	-2	secondary
+chrIV	148070	29	4	1698	148071	TTACCCT	0	primary
+chrIV	148119	26	3	49	148124	2 mismatches	5	secondary
+chrIV	167478	13	3	41	-	3 mismatches	-	monomer
+chrIV	167603	28	4	628	167603	TTACCCG	0	primary
+chrIV	167652	42	3	42	-	3 mismatches	-	secondary
+chrIV	172341	15	3	31	172345	1 mismatches	4	monomer
+chrIV	176255	15	2	41	-	3 mismatches	-	primary
+chrIV	176348	16	2	25	176363	2 mismatches	14	secondary
+chrIV	176424	18	2	35	176423	2 mismatches	-1	secondary
+chrIV	176463	30	3	154	-	3 mismatches	-	secondary
+chrIV	176502	26	4	1330	176503	TTACCCG	0	primary
+chrIV	176545	14	3	59	176524	2 mismatches	-21	secondary
+chrIV	190753	29	4	496	190757	TTACCCG	3	primary
+chrIV	190809	38	4	37	190805	2 mismatches	-3	secondary
+chrIV	211271	29	4	826	211271	TTACCCG	0	monomer
+chrIV	215828	6	2	74	215848	2 mismatches	20	secondary
+chrIV	215870	27	3	382	215870	TTACCCG	0	primary
+chrIV	215905	31	2	63	215923	2 mismatches	18	secondary
+chrIV	223900	26	4	508	223900	TTACCCG	0	monomer
+chrIV	234219	28	4	462	234220	TTACCCT	0	primary
+chrIV	234270	36	3	35	-	3 mismatches	-	secondary
+chrIV	238832	27	3	59	238831	1 mismatches	-1	monomer
+chrIV	240221	28	3	26	240221	TTACCCT	0	monomer
+chrIV	255264	25	2	40	255267	1 mismatches	2	monomer
+chrIV	258714	21	3	96	258718	TTACCCG	4	monomer
+chrIV	286845	21	4	152	286847	2 mismatches	2	monomer
+chrIV	301106	26	4	363	301107	TTACCCG	0	primary
+chrIV	301144	39	3	52	-	3 mismatches	-	secondary
+chrIV	302836	29	3	273	302836	TTACCCG	0	primary
+chrIV	302911	46	2	17	302905	2 mismatches	-6	secondary
+chrIV	304949	24	3	45	304950	TTACCCT	0	monomer
+chrIV	323804	29	4	161	323806	1 mismatches	1	monomer
+chrIV	330611	27	4	1718	330611	2 mismatches	0	primary
+chrIV	330667	17	3	46	-	3 mismatches	-	secondary
+chrIV	332673	15	3	35	332667	TTACCCG	-6	monomer
+chrIV	352473	15	2	29	352486	1 mismatches	13	monomer
+chrIV	363039	18	2	30	363043	TTACCCT	3	monomer
+chrIV	369319	28	4	472	369319	TTACCCG	0	primary
+chrIV	369377	27	4	221	369377	TTACCCG	0	secondary
+chrIV	372060	13	2	64	372057	2 mismatches	-3	secondary
+chrIV	372100	28	4	1640	372101	TTACCCG	0	primary
+chrIV	372138	17	2	55	372133	2 mismatches	-5	secondary
+chrIV	372181	12	3	31	372190	2 mismatches	9	secondary
+chrIV	393257	33	2	27	-	3 mismatches	-	monomer
+chrIV	393428	34	3	73	393427	2 mismatches	0	secondary
+chrIV	393469	27	4	650	393471	TTACCCG	1	primary
+chrIV	393506	35	2	98	-	3 mismatches	-	secondary
+chrIV	399206	27	4	185	399207	TTACCCG	1	monomer
+chrIV	407511	26	4	255	407512	TTACCCG	0	monomer
+chrIV	417924	44	2	24	417923	1 mismatches	-1	monomer
+chrIV	437847	17	3	85	-	3 mismatches	-	secondary
+chrIV	437885	27	4	656	437886	TTACCCG	0	primary
+chrIV	442473	26	4	359	442473	TTACCCG	0	monomer
+chrIV	449485	20	4	65	449488	TTACCCG	2	monomer
+chrIV	451591	26	2	20	451591	TTACCCT	0	monomer
+chrIV	453917	26	4	474	453917	TTACCCG	0	primary
+chrIV	461518	19	4	100	461524	1 mismatches	5	monomer
+chrIV	478878	27	4	243	478878	TTACCCG	0	monomer
+chrIV	501676	27	4	1023	501676	TTACCCG	0	monomer
+chrIV	504973	27	4	270	504974	TTACCCG	0	primary
+chrIV	505018	34	2	25	-	3 mismatches	-	secondary
+chrIV	524834	22	2	83	-	3 mismatches	-	secondary
+chrIV	524881	30	4	852	524882	1 mismatches	0	primary
+chrIV	524921	11	3	57	524929	2 mismatches	8	secondary
+chrIV	539627	4	2	80	539623	2 mismatches	-3	secondary
+chrIV	539671	27	4	612	539670	TTACCCG	-1	primary
+chrIV	556865	28	4	686	556865	TTACCCG	0	primary
+chrIV	556909	22	2	35	556922	2 mismatches	12	secondary
+chrIV	562960	26	2	21	562960	1 mismatches	0	monomer
+chrIV	569960	48	2	250	569950	TTACCCG	-10	monomer
+chrIV	570389	21	2	19	-	3 mismatches	-	secondary
+chrIV	570458	28	4	478	570459	TTACCCG	0	primary
+chrIV	592131	39	2	27	592152	2 mismatches	20	secondary
+chrIV	592183	24	3	41	592189	2 mismatches	5	secondary
+chrIV	592220	23	4	291	592218	TTACCCG	-2	primary
+chrIV	599895	29	3	38	599895	TTACCCT	0	monomer
+chrIV	617377	16	3	34	617383	TTACCCT	5	monomer
+chrIV	626209	29	4	225	626210	TTACCCG	0	monomer
+chrIV	629708	28	3	57	629709	TTACCCG	0	monomer
+chrIV	636203	25	3	131	636204	1 mismatches	0	primary
+chrIV	636238	33	2	22	636220	2 mismatches	-18	secondary
+chrIV	645084	21	2	17	645083	1 mismatches	-1	monomer
+chrIV	653216	17	2	108	653208	2 mismatches	-7	secondary
+chrIV	653249	26	3	342	653249	1 mismatches	0	primary
+chrIV	657628	31	4	225	657627	TTACCCG	-1	monomer
+chrIV	677751	23	2	55	677753	TTACCCT	1	monomer
+chrIV	694295	26	4	263	694294	1 mismatches	-1	monomer
+chrIV	709401	26	3	26	709400	TTACCCT	-1	monomer
+chrIV	722627	24	4	139	722628	1 mismatches	1	monomer
+chrIV	746516	13	2	62	746525	2 mismatches	9	secondary
+chrIV	746565	28	4	246	746566	TTACCCG	0	primary
+chrIV	751095	27	3	41	751096	1 mismatches	1	monomer
+chrIV	751461	28	4	115	751462	1 mismatches	0	monomer
+chrIV	765545	28	4	233	765546	TTACCCG	0	monomer
+chrIV	768313	25	3	105	768312	1 mismatches	-1	monomer
+chrIV	769161	26	2	36	769149	2 mismatches	-12	secondary
+chrIV	769242	25	3	55	769238	2 mismatches	-4	secondary
+chrIV	769294	11	2	93	-	3 mismatches	-	secondary
+chrIV	769358	29	4	2737	769358	TTACCCG	0	primary
+chrIV	769408	41	2	102	769395	2 mismatches	-13	secondary
+chrIV	769447	38	2	47	-	3 mismatches	-	secondary
+chrIV	778878	25	3	90	778878	TTACCCG	0	monomer
+chrIV	787502	25	2	156	787501	TTACCCG	-1	monomer
+chrIV	811762	19	3	28	-	3 mismatches	-	secondary
+chrIV	811801	27	4	725	811802	1 mismatches	0	primary
+chrIV	811862	21	3	36	-	3 mismatches	-	secondary
+chrIV	842160	28	4	525	842161	TTACCCG	0	monomer
+chrIV	867673	32	2	65	-	3 mismatches	-	secondary
+chrIV	867714	31	4	592	867716	1 mismatches	1	primary
+chrIV	867747	37	3	103	867766	2 mismatches	19	secondary
+chrIV	867828	39	2	31	-	3 mismatches	-	secondary
+chrIV	867892	26	2	21	867873	2 mismatches	-18	secondary
+chrIV	892558	19	2	26	892558	1 mismatches	0	monomer
+chrIV	907195	24	4	408	907197	TTACCCG	2	primary
+chrIV	907245	38	4	40	-	3 mismatches	-	secondary
+chrIV	924044	17	4	52	924040	TTACCCG	-4	monomer
+chrIV	926943	25	2	25	926937	2 mismatches	-6	secondary
+chrIV	927001	20	3	119	927000	2 mismatches	-1	secondary
+chrIV	927037	28	4	631	927039	TTACCCT	1	primary
+chrIV	936028	17	3	41	936027	TTACCCT	-1	monomer
+chrIV	940978	14	2	73	940983	1 mismatches	5	monomer
+chrIV	949605	27	2	22	949605	TTACCCG	0	monomer
+chrIV	971588	27	4	461	971589	TTACCCG	0	primary
+chrIV	971625	23	2	39	-	3 mismatches	-	secondary
+chrIV	998517	23	2	58	998520	1 mismatches	2	monomer
+chrIV	1008833	25	3	49	1008834	TTACCCG	1	monomer
+chrIV	1059109	27	3	24	-	3 mismatches	-	monomer
+chrIV	1059428	20	3	24	-	3 mismatches	-	secondary
+chrIV	1059463	27	4	327	1059463	TTACCCG	0	primary
+chrIV	1071741	39	2	46	1071720	2 mismatches	-20	secondary
+chrIV	1071786	27	4	904	1071786	TTACCCT	0	primary
+chrIV	1071839	8	2	28	-	3 mismatches	-	secondary
+chrIV	1075261	11	2	46	1075256	2 mismatches	-5	secondary
+chrIV	1075311	27	4	657	1075312	1 mismatches	0	primary
+chrIV	1075351	26	3	60	1075362	2 mismatches	11	secondary
+chrIV	1075552	18	2	49	1075551	2 mismatches	-1	monomer
+chrIV	1090202	9	2	48	-	3 mismatches	-	secondary
+chrIV	1090258	29	4	4428	1090259	TTACCCG	1	primary
+chrIV	1090294	40	3	363	-	3 mismatches	-	secondary
+chrIV	1090333	28	3	82	-	3 mismatches	-	secondary
+chrIV	1114080	18	2	51	1114099	2 mismatches	19	secondary
+chrIV	1114116	19	3	136	1114099	2 mismatches	-17	secondary
+chrIV	1114155	26	4	2526	1114156	TTACCCT	1	primary
+chrIV	1114187	22	3	224	-	3 mismatches	-	secondary
+chrIV	1120327	23	2	76	1120325	1 mismatches	-2	secondary
+chrIV	1120365	27	4	933	1120365	TTACCCG	0	primary
+chrIV	1120403	32	4	39	-	3 mismatches	-	secondary
+chrIV	1126167	18	3	251	1126172	TTACCCT	4	monomer
+chrIV	1135566	30	3	139	1135567	TTACCCG	0	primary
+chrIV	1135603	23	2	95	1135600	TTACCCT	-3	secondary
+chrIV	1174913	25	4	172	1174913	TTACCCT	0	monomer
+chrIV	1185949	27	4	112	1185949	TTACCCT	0	monomer
+chrIV	1194983	38	3	32	1194985	2 mismatches	2	monomer
+chrIV	1198910	29	2	53	1198910	1 mismatches	0	monomer
+chrIV	1229944	25	3	124	1229945	TTACCCG	1	monomer
+chrIV	1251761	29	2	114	1251778	2 mismatches	17	secondary
+chrIV	1251799	28	4	810	1251800	TTACCCT	1	primary
+chrIV	1251838	26	3	82	-	3 mismatches	-	secondary
+chrIV	1279486	27	2	50	1279487	1 mismatches	0	monomer
+chrIV	1294524	27	4	206	1294524	TTACCCG	0	monomer
+chrIV	1322068	26	2	73	1322069	TTACCCG	0	monomer
+chrIV	1359035	29	3	49	1359035	1 mismatches	0	monomer
+chrIV	1362581	34	2	93	-	3 mismatches	-	secondary
+chrIV	1362621	27	4	427	1362621	TTACCCG	0	primary
+chrIV	1369554	28	4	691	1369555	TTACCCG	0	monomer
+chrIV	1378644	16	2	28	1378647	1 mismatches	3	monomer
+chrIV	1394845	18	2	56	1394851	1 mismatches	6	secondary
+chrIV	1394907	26	4	1539	1394908	TTACCCG	0	primary
+chrIV	1394985	9	2	40	-	3 mismatches	-	secondary
+chrIV	1411972	27	4	306	1411972	TTACCCT	0	primary
+chrIV	1417204	28	3	138	1417214	1 mismatches	9	monomer
+chrIV	1429155	21	3	29	1429164	1 mismatches	8	monomer
+chrIV	1429471	23	2	40	1429474	TTACCCT	2	monomer
+chrIV	1443557	28	3	97	1443558	1 mismatches	0	monomer
+chrIV	1447128	27	4	280	1447127	TTACCCG	-1	monomer
+chrIV	1447411	36	2	23	1447397	2 mismatches	-14	monomer
+chrIV	1469152	11	2	128	1469146	2 mismatches	-6	secondary
+chrIV	1469193	20	4	1429	1469189	1 mismatches	-3	primary
+chrIV	1469238	22	3	80	1469233	2 mismatches	-5	secondary
+chrIV	1480270	26	4	230	1480270	TTACCCG	0	monomer
+chrIV	1483613	22	4	106	1483610	TTACCCT	-3	monomer
+chrIV	1490337	28	4	294	1490337	TTACCCG	0	monomer
+chrIV	1493221	26	4	89	1493221	1 mismatches	0	primary
+chrIV	1493266	18	2	43	-	3 mismatches	-	secondary
+chrIV	1493302	27	4	241	1493302	TTACCCT	0	primary
+chrIV	1493346	23	2	30	1493360	2 mismatches	14	secondary
+chrIV	1494143	23	2	23	1494142	TTACCCG	-1	monomer
+chrIV	1524945	26	3	52	1524945	TTACCCT	0	monomer
+chrIV	1525143	27	3	278	1525143	TTACCCT	0	primary
+chrIV	1525199	29	2	198	1525180	TTACCCT	-19	secondary
+chrIV	1525267	26	4	542	1525264	TTACCCT	-3	primary
+chrIV	1525312	25	2	59	1525294	TTACCCT	-18	secondary
+chrIV	1525374	30	2	108	-	3 mismatches	-	primary
+chrIV	1525409	20	2	30	-	3 mismatches	-	secondary
+chrV	6287	18	4	131	6287	1 mismatches	0	primary
+chrV	6355	31	3	47	6341	2 mismatches	-14	secondary
+chrV	13125	27	2	28	13126	TTACCCG	0	monomer
+chrV	33822	28	3	65	33823	1 mismatches	0	monomer
+chrV	42226	28	3	114	42227	1 mismatches	0	monomer
+chrV	51712	9	3	37	51716	TTACCCG	4	monomer
+chrV	58202	12	2	24	58221	2 mismatches	18	secondary
+chrV	58240	26	4	407	58240	TTACCCG	0	primary
+chrV	73450	27	3	167	73450	TTACCCT	0	monomer
+chrV	80323	26	3	114	80323	1 mismatches	0	monomer
+chrV	100557	27	4	462	100556	TTACCCG	-1	monomer
+chrV	101650	29	3	234	101650	TTACCCG	0	monomer
+chrV	111220	20	3	158	111216	TTACCCG	-4	monomer
+chrV	128421	37	2	29	128416	2 mismatches	-5	secondary
+chrV	128459	27	4	342	128459	TTACCCG	0	primary
+chrV	131084	31	2	20	131091	TTACCCG	6	monomer
+chrV	131534	29	4	1257	131534	TTACCCG	0	primary
+chrV	131585	15	4	72	131582	2 mismatches	-3	secondary
+chrV	150159	19	3	31	150163	TTACCCT	4	monomer
+chrV	151111	27	4	385	151110	TTACCCG	-1	monomer
+chrV	156580	10	2	34	156583	1 mismatches	3	secondary
+chrV	156622	26	4	622	156622	TTACCCG	0	primary
+chrV	171969	15	2	45	171963	1 mismatches	-6	monomer
+chrV	178218	32	3	44	178219	TTACCCT	0	monomer
+chrV	178645	17	4	118	-	3 mismatches	-	secondary
+chrV	178684	27	4	780	178684	TTACCCG	0	primary
+chrV	178716	21	2	92	-	3 mismatches	-	secondary
+chrV	192066	37	4	342	192069	1 mismatches	2	primary
+chrV	192131	23	2	118	-	3 mismatches	-	secondary
+chrV	192173	29	4	260	192173	1 mismatches	0	secondary
+chrV	192228	27	4	2026	192230	TTACCCG	1	primary
+chrV	192269	14	3	354	192254	1 mismatches	-15	secondary
+chrV	192316	18	2	44	192317	2 mismatches	1	secondary
+chrV	194732	29	4	101	194732	TTACCCG	0	monomer
+chrV	196783	14	3	80	196789	TTACCCG	5	primary
+chrV	196845	26	2	18	-	3 mismatches	-	secondary
+chrV	205093	29	4	200	205093	1 mismatches	0	monomer
+chrV	221639	39	2	38	-	3 mismatches	-	secondary
+chrV	221684	33	4	142	221684	1 mismatches	0	primary
+chrV	225488	27	4	656	225488	TTACCCT	0	monomer
+chrV	229561	27	3	60	229546	2 mismatches	-15	secondary
+chrV	229599	27	4	2348	229599	TTACCCG	0	primary
+chrV	229647	23	4	104	-	3 mismatches	-	secondary
+chrV	250489	18	2	40	250486	1 mismatches	-3	secondary
+chrV	250535	27	4	1101	250535	TTACCCG	0	primary
+chrV	254500	14	2	30	254481	2 mismatches	-18	secondary
+chrV	254545	27	4	1063	254546	TTACCCT	0	primary
+chrV	254582	30	3	48	254592	2 mismatches	10	secondary
+chrV	260171	25	3	88	260169	TTACCCT	-2	monomer
+chrV	266182	26	3	159	266182	1 mismatches	0	monomer
+chrV	280245	27	2	153	280245	TTACCCT	0	monomer
+chrV	281502	12	4	285	281496	TTACCCG	-6	monomer
+chrV	284787	26	4	393	284786	TTACCCG	-1	monomer
+chrV	292762	24	2	24	292749	2 mismatches	-13	secondary
+chrV	292793	25	4	396	292793	TTACCCG	0	secondary
+chrV	292825	28	3	411	292826	TTACCCG	0	primary
+chrV	298524	27	4	179	298524	TTACCCG	0	monomer
+chrV	327146	16	3	38	327152	2 mismatches	6	monomer
+chrV	332968	28	4	367	332967	TTACCCT	-1	monomer
+chrV	336010	28	2	53	336011	1 mismatches	0	monomer
+chrV	342719	27	4	549	342719	TTACCCG	0	monomer
+chrV	349676	9	2	28	349691	2 mismatches	15	secondary
+chrV	349766	28	4	611	349767	TTACCCT	0	primary
+chrV	349807	28	2	59	349818	2 mismatches	10	secondary
+chrV	372152	27	4	419	372153	TTACCCG	1	monomer
+chrV	386396	27	4	398	386395	TTACCCG	-1	monomer
+chrV	422634	14	4	79	422635	1 mismatches	0	monomer
+chrV	439254	29	2	18	439234	2 mismatches	-19	secondary
+chrV	439298	27	4	211	439298	TTACCCT	0	primary
+chrV	439341	12	2	21	439339	2 mismatches	-2	secondary
+chrV	462347	30	2	36	-	3 mismatches	-	secondary
+chrV	462399	40	4	381	462407	TTACCCG	7	primary
+chrV	462451	20	3	55	462438	1 mismatches	-13	secondary
+chrV	481657	7	2	49	481641	TTACCCG	-16	monomer
+chrV	484566	32	3	75	484585	2 mismatches	19	secondary
+chrV	484602	14	4	80	484585	2 mismatches	-17	secondary
+chrV	484660	28	4	1131	484660	TTACCCT	0	primary
+chrV	484707	8	2	53	-	3 mismatches	-	secondary
+chrV	492301	12	3	136	492307	1 mismatches	5	primary
+chrV	492350	19	3	92	492352	1 mismatches	2	secondary
+chrV	492427	38	2	51	492416	2 mismatches	-10	secondary
+chrV	503896	15	3	66	503891	1 mismatches	-4	monomer
+chrV	533238	26	3	99	533238	TTACCCG	0	monomer
+chrV	541548	28	4	154	541548	TTACCCG	0	primary
+chrV	541587	23	2	16	-	3 mismatches	-	secondary
+chrV	546656	26	4	665	546657	TTACCCG	0	primary
+chrV	546705	21	3	39	546697	2 mismatches	-8	secondary
+chrV	561548	29	2	23	561548	TTACCCT	0	monomer
+chrV	569944	28	4	180	569924	TTACCCT	-20	primary
+chrV	570025	31	3	30	570029	TTACCCT	4	secondary
+chrV	570133	28	3	68	570133	TTACCCT	0	monomer
+chrV	570261	26	4	154	570273	TTACCCT	11	monomer
+chrVI	4698	31	2	21	4686	2 mismatches	-12	secondary
+chrVI	4761	27	3	26	-	3 mismatches	-	secondary
+chrVI	4811	20	3	106	-	3 mismatches	-	secondary
+chrVI	4863	35	3	534	4879	TTACCCT	16	secondary
+chrVI	4907	29	4	6340	4909	TTACCCT	1	primary
+chrVI	4943	25	4	358	4953	TTACCCT	9	secondary
+chrVI	4986	24	4	430	4990	TTACCCT	3	primary
+chrVI	5093	26	4	302	5095	TTACCCT	1	monomer
+chrVI	5201	27	3	189	5201	TTACCCT	0	monomer
+chrVI	55096	10	3	111	55099	1 mismatches	2	primary
+chrVI	55158	14	2	49	55176	2 mismatches	17	secondary
+chrVI	55227	27	4	505	55228	TTACCCG	0	primary
+chrVI	56154	19	3	87	56150	1 mismatches	-4	monomer
+chrVI	90297	34	2	29	90301	2 mismatches	4	secondary
+chrVI	90360	8	3	62	-	3 mismatches	-	secondary
+chrVI	90408	26	4	1918	90408	TTACCCT	0	primary
+chrVI	90442	18	3	129	90439	2 mismatches	-2	secondary
+chrVI	90794	16	3	127	90784	2 mismatches	-9	secondary
+chrVI	90838	18	4	2232	90844	TTACCCG	5	primary
+chrVI	90895	13	3	114	90877	2 mismatches	-17	secondary
+chrVI	95300	27	2	319	95301	TTACCCG	0	secondary
+chrVI	95332	27	4	742	95333	1 mismatches	0	primary
+chrVI	95638	25	2	26	-	3 mismatches	-	monomer
+chrVI	106435	28	4	241	106436	TTACCCT	0	secondary
+chrVI	106466	28	4	529	106467	TTACCCG	1	primary
+chrVI	106523	34	3	82	-	3 mismatches	-	secondary
+chrVI	110049	23	2	45	110050	TTACCCT	0	monomer
+chrVI	123225	32	4	142	123219	TTACCCT	-6	monomer
+chrVI	129983	34	2	59	129994	2 mismatches	11	secondary
+chrVI	130040	27	4	2210	130041	TTACCCG	0	primary
+chrVI	130070	29	3	135	-	3 mismatches	-	secondary
+chrVI	130134	29	2	33	130143	2 mismatches	9	secondary
+chrVI	149841	32	3	50	-	3 mismatches	-	secondary
+chrVI	149873	26	4	196	149874	TTACCCG	0	primary
+chrVI	173481	20	2	29	173479	TTACCCT	-2	monomer
+chrVI	183971	34	2	26	-	3 mismatches	-	secondary
+chrVI	184010	23	2	139	184009	1 mismatches	-1	primary
+chrVI	184098	10	3	85	-	3 mismatches	-	secondary
+chrVI	184135	28	4	1119	184136	TTACCCT	0	primary
+chrVI	184169	30	3	112	184181	2 mismatches	12	secondary
+chrVI	191609	7	2	56	-	3 mismatches	-	monomer
+chrVI	196633	22	2	27	196639	TTACCCG	5	monomer
+chrVI	224486	27	3	156	224487	TTACCCT	1	monomer
+chrVI	250005	14	4	218	250011	TTACCCG	5	monomer
+chrVI	250287	26	2	22	250275	2 mismatches	-11	monomer
+chrVI	251939	27	4	563	251939	TTACCCG	0	primary
+chrVI	251985	29	3	35	-	3 mismatches	-	secondary
+chrVII	84	23	4	348	92	TTACCCT	7	monomer
+chrVII	27653	26	3	31	27654	1 mismatches	0	monomer
+chrVII	35187	21	4	82	35199	2 mismatches	11	secondary
+chrVII	35231	27	4	945	35232	TTACCCG	1	primary
+chrVII	35265	35	2	70	-	3 mismatches	-	secondary
+chrVII	36812	39	4	145	36820	TTACCCG	7	monomer
+chrVII	41345	27	4	906	41345	TTACCCG	0	primary
+chrVII	41402	8	2	19	-	3 mismatches	-	secondary
+chrVII	49339	5	3	39	-	3 mismatches	-	secondary
+chrVII	49403	24	4	756	49404	TTACCCT	1	primary
+chrVII	53709	27	4	838	53709	TTACCCG	0	monomer
+chrVII	53813	33	2	20	-	3 mismatches	-	monomer
+chrVII	76683	27	3	119	76683	1 mismatches	0	monomer
+chrVII	79088	24	3	80	79088	1 mismatches	0	monomer
+chrVII	98761	26	2	28	98764	1 mismatches	2	monomer
+chrVII	115730	27	2	17	-	3 mismatches	-	secondary
+chrVII	115776	27	4	141	115776	1 mismatches	0	primary
+chrVII	123419	39	3	35	123418	2 mismatches	-1	secondary
+chrVII	123451	34	2	54	123459	2 mismatches	7	secondary
+chrVII	123490	25	4	603	123489	TTACCCG	-1	primary
+chrVII	129341	31	2	32	-	3 mismatches	-	secondary
+chrVII	129375	29	3	91	129376	TTACCCG	0	primary
+chrVII	144246	25	4	95	144248	TTACCCG	1	primary
+chrVII	144281	35	2	24	-	3 mismatches	-	secondary
+chrVII	144577	5	2	39	144586	TTACCCG	8	monomer
+chrVII	157696	15	2	81	-	3 mismatches	-	secondary
+chrVII	157735	28	4	1536	157736	TTACCCG	0	primary
+chrVII	157784	13	2	56	-	3 mismatches	-	secondary
+chrVII	191011	28	4	901	191011	TTACCCT	0	monomer
+chrVII	200286	16	3	47	200270	2 mismatches	-16	secondary
+chrVII	200331	26	3	977	200332	TTACCCG	0	primary
+chrVII	210245	13	2	63	210250	TTACCCT	5	monomer
+chrVII	217348	37	3	105	217335	2 mismatches	-12	secondary
+chrVII	217391	27	4	878	217391	TTACCCG	0	primary
+chrVII	245301	10	3	227	245291	TTACCCT	-10	monomer
+chrVII	249724	28	3	52	249725	TTACCCG	0	monomer
+chrVII	271367	28	2	54	271388	2 mismatches	21	secondary
+chrVII	271415	18	4	263	271422	1 mismatches	6	primary
+chrVII	271777	22	2	29	271789	2 mismatches	11	secondary
+chrVII	271814	29	3	71	271821	1 mismatches	7	primary
+chrVII	272902	28	2	34	-	3 mismatches	-	secondary
+chrVII	272993	28	4	760	272994	1 mismatches	0	primary
+chrVII	273033	13	2	81	273044	2 mismatches	10	secondary
+chrVII	284194	45	2	34	-	3 mismatches	-	secondary
+chrVII	284261	16	2	49	-	3 mismatches	-	secondary
+chrVII	284300	28	4	505	284300	TTACCCG	0	primary
+chrVII	316638	26	2	68	-	3 mismatches	-	secondary
+chrVII	316671	27	4	289	316672	TTACCCG	0	primary
+chrVII	316716	40	2	19	-	3 mismatches	-	secondary
+chrVII	321614	29	4	64	321626	TTACCCG	12	monomer
+chrVII	330760	26	3	50	330760	TTACCCT	0	monomer
+chrVII	345770	35	3	44	-	3 mismatches	-	secondary
+chrVII	345817	19	2	209	345806	2 mismatches	-10	secondary
+chrVII	345850	25	3	1154	345853	TTACCCG	3	primary
+chrVII	347063	26	4	232	347064	TTACCCT	0	monomer
+chrVII	374679	39	2	25	374682	2 mismatches	3	monomer
+chrVII	374913	45	3	35	374922	2 mismatches	9	secondary
+chrVII	374962	27	4	529	374962	TTACCCG	0	primary
+chrVII	375006	25	2	34	375020	2 mismatches	14	secondary
+chrVII	375049	20	2	25	-	3 mismatches	-	secondary
+chrVII	377325	27	4	535	377325	TTACCCG	0	monomer
+chrVII	393780	39	2	47	393775	1 mismatches	-5	primary
+chrVII	393829	28	2	46	393834	2 mismatches	5	secondary
+chrVII	397916	27	4	450	397916	1 mismatches	0	primary
+chrVII	397956	22	3	48	-	3 mismatches	-	secondary
+chrVII	417356	29	4	641	417357	TTACCCG	0	monomer
+chrVII	434024	20	3	42	434022	TTACCCG	-2	monomer
+chrVII	485339	25	3	63	485338	TTACCCG	-1	monomer
+chrVII	494380	26	3	90	494381	TTACCCG	0	monomer
+chrVII	500024	23	4	347	500021	1 mismatches	-3	monomer
+chrVII	511174	28	4	343	511174	TTACCCG	0	monomer
+chrVII	511283	25	2	24	-	3 mismatches	-	monomer
+chrVII	513039	26	4	223	513039	TTACCCG	0	monomer
+chrVII	513143	23	2	23	-	3 mismatches	-	monomer
+chrVII	532738	24	3	94	532740	TTACCCG	1	monomer
+chrVII	547404	43	3	65	547405	1 mismatches	1	monomer
+chrVII	548340	25	2	37	548340	TTACCCT	0	monomer
+chrVII	560378	34	4	92	-	3 mismatches	-	secondary
+chrVII	560426	26	4	463	560428	TTACCCG	1	primary
+chrVII	581853	28	4	395	581853	TTACCCT	0	monomer
+chrVII	584644	30	2	37	584623	1 mismatches	-21	secondary
+chrVII	584688	24	3	389	584692	TTACCCG	3	primary
+chrVII	584723	18	2	42	584726	2 mismatches	3	secondary
+chrVII	591699	28	3	75	591699	1 mismatches	0	monomer
+chrVII	596378	31	4	415	596380	TTACCCG	2	monomer
+chrVII	601486	27	4	132	601486	TTACCCT	0	monomer
+chrVII	609261	25	3	100	609262	TTACCCG	0	monomer
+chrVII	609863	25	3	52	609874	2 mismatches	11	secondary
+chrVII	609915	29	4	1838	609916	TTACCCG	0	primary
+chrVII	609954	25	2	107	609952	2 mismatches	-1	secondary
+chrVII	625561	13	2	79	625568	1 mismatches	7	monomer
+chrVII	640534	28	4	1999	640535	TTACCCG	0	primary
+chrVII	640575	20	2	53	-	3 mismatches	-	secondary
+chrVII	641889	25	3	57	641889	TTACCCT	0	monomer
+chrVII	648194	26	4	599	648195	TTACCCT	0	primary
+chrVII	648259	17	3	21	-	3 mismatches	-	secondary
+chrVII	676859	27	2	99	676857	TTACCCT	-2	monomer
+chrVII	681273	22	3	113	681276	1 mismatches	2	monomer
+chrVII	689879	27	3	30	689880	1 mismatches	0	monomer
+chrVII	718733	16	3	71	718737	1 mismatches	3	monomer
+chrVII	720235	24	3	46	720236	TTACCCG	1	monomer
+chrVII	731853	13	3	56	731847	1 mismatches	-6	monomer
+chrVII	750853	30	2	44	750853	TTACCCG	0	monomer
+chrVII	754068	27	3	207	754069	1 mismatches	1	monomer
+chrVII	756593	21	2	56	756602	2 mismatches	8	secondary
+chrVII	756636	26	4	706	756636	TTACCCG	0	primary
+chrVII	756674	11	2	35	-	3 mismatches	-	secondary
+chrVII	756841	24	4	89	756839	1 mismatches	-2	monomer
+chrVII	757424	2	2	21	757438	2 mismatches	14	secondary
+chrVII	757487	31	3	71	757506	2 mismatches	19	secondary
+chrVII	757526	28	4	311	757527	TTACCCG	0	primary
+chrVII	761223	39	4	423	761232	TTACCCT	8	monomer
+chrVII	767344	21	4	40	767347	1 mismatches	3	monomer
+chrVII	770428	27	4	634	770428	TTACCCG	0	monomer
+chrVII	781621	26	4	209	781622	TTACCCG	0	monomer
+chrVII	787059	22	2	79	787059	2 mismatches	0	secondary
+chrVII	787105	27	4	1627	787105	TTACCCG	0	primary
+chrVII	787146	46	4	588	-	3 mismatches	-	secondary
+chrVII	800280	26	3	410	800280	TTACCCG	0	primary
+chrVII	800315	25	2	36	800328	2 mismatches	12	secondary
+chrVII	843672	14	3	79	843671	2 mismatches	-1	secondary
+chrVII	843716	27	4	730	843716	TTACCCG	0	primary
+chrVII	843753	18	3	37	-	3 mismatches	-	secondary
+chrVII	853578	42	2	59	853597	1 mismatches	19	monomer
+chrVII	854999	40	2	29	-	3 mismatches	-	secondary
+chrVII	855039	27	4	586	855040	TTACCCG	1	primary
+chrVII	855079	12	4	57	855072	2 mismatches	-7	secondary
+chrVII	857836	28	3	80	857838	TTACCCG	1	monomer
+chrVII	866177	23	2	26	866169	2 mismatches	-8	secondary
+chrVII	866242	36	4	180	866257	TTACCCG	14	primary
+chrVII	888667	28	4	665	888667	TTACCCG	0	primary
+chrVII	892319	21	2	16	-	3 mismatches	-	secondary
+chrVII	892354	22	4	82	892354	1 mismatches	0	primary
+chrVII	897357	22	3	100	897355	TTACCCG	-2	monomer
+chrVII	905077	28	4	431	905077	TTACCCG	0	monomer
+chrVII	905664	30	4	280	905663	1 mismatches	-1	monomer
+chrVII	932125	29	4	140	932125	TTACCCG	0	monomer
+chrVII	936992	27	4	174	936993	TTACCCG	0	monomer
+chrVII	953753	25	2	56	953745	2 mismatches	-7	secondary
+chrVII	953798	24	3	63	-	3 mismatches	-	secondary
+chrVII	953848	28	4	582	953849	TTACCCG	0	primary
+chrVII	962177	24	2	35	962177	2 mismatches	0	secondary
+chrVII	962219	25	4	1761	962219	TTACCCG	0	primary
+chrVII	962262	30	3	34	-	3 mismatches	-	secondary
+chrVII	965851	19	3	59	965855	TTACCCG	4	monomer
+chrVII	974679	29	2	31	974679	1 mismatches	0	monomer
+chrVII	976960	24	4	916	976954	TTACCCG	-6	primary
+chrVII	977003	30	2	94	977004	1 mismatches	1	secondary
+chrVII	1022496	26	4	878	1022496	TTACCCG	0	primary
+chrVII	1022530	25	3	40	1022528	2 mismatches	-2	secondary
+chrVII	1026183	23	2	62	-	3 mismatches	-	secondary
+chrVII	1026223	28	4	278	1026224	TTACCCT	0	primary
+chrVII	1031680	28	3	40	1031680	TTACCCG	0	monomer
+chrVII	1051865	27	4	435	1051865	TTACCCG	0	monomer
+chrVII	1061737	27	2	22	-	3 mismatches	-	secondary
+chrVII	1061769	27	4	827	1061769	TTACCCG	0	primary
+chrVII	1063311	23	4	77	1063314	TTACCCG	2	monomer
+chrVII	1070117	11	4	133	1070106	1 mismatches	-11	monomer
+chrVII	1083970	28	4	517	1083970	TTACCCT	0	primary
+chrVII	1084025	30	2	36	1084034	2 mismatches	9	secondary
+chrVII	1084073	23	3	22	1084072	TTACCCT	-1	secondary
+chrVII	1084166	29	4	233	1084167	TTACCCT	0	secondary
+chrVII	1084206	44	3	605	1084215	TTACCCT	8	primary
+chrVII	1084266	26	2	136	-	3 mismatches	-	secondary
+chrVII	1084299	26	4	567	1084298	TTACCCT	-1	primary
+chrVII	1084339	30	3	97	1084328	TTACCCT	-11	secondary
+chrVIII	57	25	3	3704	74	TTACCCG	16	monomer
+chrVIII	4963	23	2	39	4963	1 mismatches	0	monomer
+chrVIII	5090	17	3	62	5078	1 mismatches	-11	primary
+chrVIII	5127	24	2	46	5120	2 mismatches	-7	secondary
+chrVIII	5169	27	3	433	5169	TTACCCT	0	primary
+chrVIII	11126	25	3	58	11125	1 mismatches	0	monomer
+chrVIII	39699	28	2	35	-	3 mismatches	-	secondary
+chrVIII	39745	24	2	43	-	3 mismatches	-	primary
+chrVIII	39892	30	4	105	39889	1 mismatches	-3	secondary
+chrVIII	39926	26	4	635	39926	TTACCCG	0	primary
+chrVIII	39987	2	2	29	39990	1 mismatches	2	secondary
+chrVIII	53289	23	2	22	53291	TTACCCG	1	monomer
+chrVIII	75224	25	4	84	75225	TTACCCG	0	monomer
+chrVIII	98541	29	3	72	98562	1 mismatches	21	secondary
+chrVIII	98602	25	3	172	98588	TTACCCG	-14	primary
+chrVIII	117549	19	3	21	-	3 mismatches	-	secondary
+chrVIII	117613	28	4	275	117613	TTACCCT	0	primary
+chrVIII	150867	28	3	43	150867	TTACCCG	0	monomer
+chrVIII	151429	28	3	209	151430	TTACCCT	0	primary
+chrVIII	151472	39	2	26	151480	TTACCCT	7	secondary
+chrVIII	160557	37	3	32	160570	2 mismatches	13	secondary
+chrVIII	160602	28	4	548	160607	TTACCCG	4	primary
+chrVIII	187670	32	2	52	187651	2 mismatches	-19	secondary
+chrVIII	187749	29	2	61	-	3 mismatches	-	secondary
+chrVIII	187790	14	4	691	187797	TTACCCT	6	primary
+chrVIII	249790	18	4	238	249786	TTACCCG	-4	monomer
+chrVIII	272531	28	4	305	272531	TTACCCT	0	primary
+chrVIII	272578	36	2	47	-	3 mismatches	-	secondary
+chrVIII	277831	28	2	28	277825	TTACCCT	-6	monomer
+chrVIII	360761	28	4	608	360762	TTACCCG	0	monomer
+chrVIII	374475	2	2	22	-	3 mismatches	-	secondary
+chrVIII	374561	27	4	790	374561	1 mismatches	0	primary
+chrVIII	374604	40	3	57	-	3 mismatches	-	secondary
+chrVIII	381418	25	3	136	381419	TTACCCT	1	monomer
+chrVIII	389001	33	2	61	-	3 mismatches	-	monomer
+chrVIII	390137	27	4	238	390137	TTACCCG	0	monomer
+chrVIII	402792	23	4	194	402795	TTACCCT	2	monomer
+chrVIII	406912	27	4	157	406912	TTACCCG	0	monomer
+chrVIII	443624	7	4	297	443634	TTACCCG	9	monomer
+chrVIII	448119	28	3	38	448119	TTACCCT	0	monomer
+chrVIII	456391	28	2	34	456391	TTACCCG	0	monomer
+chrVIII	480873	30	3	37	480872	1 mismatches	-1	monomer
+chrVIII	506172	18	4	103	506176	TTACCCG	3	monomer
+chrVIII	556383	9	2	42	556364	2 mismatches	-18	monomer
+chrVIII	556503	23	2	76	556488	2 mismatches	-15	secondary
+chrVIII	556544	40	3	100	556549	TTACCCT	4	primary
+chrVIII	556652	12	3	114	556654	TTACCCT	2	monomer
+chrVIII	556809	32	4	469	556794	TTACCCT	-15	primary
+chrVIII	556850	28	3	160	-	3 mismatches	-	secondary
+chrVIII	556963	36	2	49	-	3 mismatches	-	monomer
+chrVIII	562478	28	2	37	-	3 mismatches	-	monomer
+chrIX	39316	27	2	16	39317	TTACCCG	0	monomer
+chrIX	41674	32	3	152	41676	TTACCCT	1	monomer
+chrIX	60950	26	4	238	60950	TTACCCG	0	monomer
+chrIX	68308	28	4	1182	68308	TTACCCG	0	primary
+chrIX	68353	21	2	68	-	3 mismatches	-	secondary
+chrIX	77449	26	3	93	77448	TTACCCG	-1	monomer
+chrIX	113486	41	2	16	113490	2 mismatches	4	secondary
+chrIX	113528	29	2	32	-	3 mismatches	-	secondary
+chrIX	113628	19	4	168	113630	TTACCCG	2	primary
+chrIX	122236	23	3	65	122221	2 mismatches	-14	secondary
+chrIX	122277	28	4	1144	122277	TTACCCG	0	primary
+chrIX	122316	39	3	109	122323	2 mismatches	7	secondary
+chrIX	130127	16	4	51	130138	TTACCCG	10	monomer
+chrIX	131877	16	2	64	131892	2 mismatches	14	secondary
+chrIX	131919	28	4	676	131920	TTACCCG	0	primary
+chrIX	131961	12	3	29	131945	2 mismatches	-15	secondary
+chrIX	139437	26	4	83	139438	1 mismatches	1	secondary
+chrIX	139479	27	4	484	139480	TTACCCG	0	primary
+chrIX	142558	40	4	145	142549	1 mismatches	-9	monomer
+chrIX	142750	25	3	59	142750	TTACCCT	0	monomer
+chrIX	143014	38	4	62	143010	2 mismatches	-4	secondary
+chrIX	143086	28	4	1089	143087	TTACCCG	0	primary
+chrIX	143124	35	3	53	-	3 mismatches	-	secondary
+chrIX	151465	27	3	561	151465	TTACCCG	0	monomer
+chrIX	160446	21	2	24	-	3 mismatches	-	secondary
+chrIX	160492	30	2	41	-	3 mismatches	-	secondary
+chrIX	160536	20	3	131	160540	2 mismatches	4	secondary
+chrIX	160572	27	4	1777	160571	TTACCCG	-1	primary
+chrIX	160610	21	2	52	-	3 mismatches	-	secondary
+chrIX	166165	19	3	123	166164	1 mismatches	-1	secondary
+chrIX	166210	27	4	374	166210	TTACCCT	0	primary
+chrIX	169842	10	3	53	-	3 mismatches	-	secondary
+chrIX	169888	19	4	767	169892	TTACCCT	4	primary
+chrIX	169923	33	3	175	-	3 mismatches	-	secondary
+chrIX	197743	12	2	50	-	3 mismatches	-	secondary
+chrIX	197777	17	4	606	197780	TTACCCT	2	primary
+chrIX	220821	39	3	29	-	3 mismatches	-	secondary
+chrIX	220867	28	4	544	220868	TTACCCG	0	primary
+chrIX	220908	20	3	34	-	3 mismatches	-	secondary
+chrIX	244611	27	4	243	244610	TTACCCG	-1	primary
+chrIX	244681	23	2	27	-	3 mismatches	-	secondary
+chrIX	249307	27	3	63	249308	1 mismatches	0	monomer
+chrIX	254584	26	3	34	254584	1 mismatches	0	monomer
+chrIX	268943	24	2	29	268947	1 mismatches	3	monomer
+chrIX	310915	26	3	520	310933	TTACCCG	17	primary
+chrIX	310959	45	3	143	310941	2 mismatches	-18	secondary
+chrIX	311017	13	2	48	-	3 mismatches	-	secondary
+chrIX	343958	21	3	42	343956	1 mismatches	-1	monomer
+chrIX	350194	23	2	50	350192	TTACCCG	-2	monomer
+chrIX	360470	15	2	27	-	3 mismatches	-	secondary
+chrIX	360531	10	3	398	360533	2 mismatches	1	secondary
+chrIX	360571	28	4	5899	360571	TTACCCG	0	primary
+chrIX	360605	19	3	666	-	3 mismatches	-	secondary
+chrIX	360644	39	2	151	-	3 mismatches	-	secondary
+chrIX	380962	27	4	529	380963	TTACCCG	0	primary
+chrIX	381006	49	2	100	380997	2 mismatches	-8	secondary
+chrIX	382288	28	2	33	382281	2 mismatches	-7	secondary
+chrIX	382356	23	4	94	382360	TTACCCT	3	primary
+chrIX	415888	28	3	38	415889	TTACCCT	0	monomer
+chrIX	439442	18	3	64	-	3 mismatches	-	monomer
+chrIX	439616	31	3	141	439609	TTACCCT	-7	primary
+chrIX	439696	20	3	122	-	3 mismatches	-	secondary
+chrIX	439732	28	3	699	439731	TTACCCT	-1	primary
+chrIX	439781	28	2	254	439761	TTACCCT	-20	secondary
+chrIX	439820	30	3	471	439809	2 mismatches	-11	primary
+chrIX	439856	27	3	87	-	3 mismatches	-	secondary
+chrX	60272	27	4	470	60273	TTACCCG	0	primary
+chrX	60319	32	2	57	60336	1 mismatches	16	secondary
+chrX	68903	32	2	35	68897	2 mismatches	-5	secondary
+chrX	68938	27	4	1409	68938	TTACCCG	0	primary
+chrX	123419	34	2	84	123413	2 mismatches	-5	secondary
+chrX	123459	17	3	674	-	3 mismatches	-	secondary
+chrX	123537	28	4	5090	123538	TTACCCG	0	primary
+chrX	123575	31	2	129	123592	1 mismatches	16	secondary
+chrX	137145	22	2	16	-	3 mismatches	-	secondary
+chrX	137202	17	2	75	137209	2 mismatches	6	secondary
+chrX	137238	29	4	449	137239	TTACCCT	0	primary
+chrX	146920	27	3	48	-	3 mismatches	-	secondary
+chrX	146957	27	4	1107	146958	1 mismatches	0	primary
+chrX	146999	32	2	81	147005	2 mismatches	5	secondary
+chrX	159728	29	2	31	159730	1 mismatches	1	monomer
+chrX	187913	27	2	126	187914	TTACCCG	0	monomer
+chrX	192328	24	3	165	192328	1 mismatches	0	monomer
+chrX	207615	29	2	71	207619	2 mismatches	4	secondary
+chrX	207675	29	4	483	207676	TTACCCG	0	primary
+chrX	220415	39	2	25	220425	2 mismatches	9	secondary
+chrX	220478	29	4	482	220478	TTACCCG	0	primary
+chrX	220783	25	4	137	220783	TTACCCG	0	monomer
+chrX	223584	35	2	69	223568	2 mismatches	-16	secondary
+chrX	223636	28	4	3254	223637	TTACCCG	0	primary
+chrX	223683	19	3	175	223692	2 mismatches	9	secondary
+chrX	223737	22	2	21	-	3 mismatches	-	secondary
+chrX	228629	16	4	60	228629	1 mismatches	0	monomer
+chrX	257114	28	4	172	257114	TTACCCT	0	monomer
+chrX	265236	27	2	207	265236	TTACCCT	0	monomer
+chrX	295063	28	4	333	295065	TTACCCG	1	monomer
+chrX	339487	15	3	78	339482	TTACCCT	-5	monomer
+chrX	359865	21	4	156	359863	TTACCCG	-2	monomer
+chrX	374073	24	3	122	374075	1 mismatches	1	monomer
+chrX	383659	14	3	73	383680	TTACCCT	21	monomer
+chrX	391117	19	2	40	391132	2 mismatches	15	monomer
+chrX	402687	29	4	1062	402687	TTACCCG	0	primary
+chrX	402726	6	3	36	-	3 mismatches	-	secondary
+chrX	424242	42	2	93	-	3 mismatches	-	secondary
+chrX	424281	26	4	1117	424282	TTACCCG	0	primary
+chrX	424325	22	2	80	-	3 mismatches	-	secondary
+chrX	424382	22	2	50	-	3 mismatches	-	secondary
+chrX	432496	21	3	47	432493	1 mismatches	-3	monomer
+chrX	434767	23	3	49	-	3 mismatches	-	secondary
+chrX	434805	28	4	1981	434806	TTACCCT	0	primary
+chrX	434863	35	2	62	434845	2 mismatches	-18	secondary
+chrX	442663	26	3	62	442665	TTACCCG	1	monomer
+chrX	445756	26	3	45	445756	1 mismatches	0	monomer
+chrX	450781	17	4	44	450788	TTACCCG	6	monomer
+chrX	455197	28	3	23	455198	TTACCCT	0	monomer
+chrX	525888	45	3	106	525897	TTACCCT	9	monomer
+chrX	545556	27	3	60	-	3 mismatches	-	monomer
+chrX	559282	28	4	333	559282	1 mismatches	0	primary
+chrX	559329	9	2	36	-	3 mismatches	-	secondary
+chrX	576771	28	4	1039	576771	TTACCCG	0	primary
+chrX	576853	9	2	44	576857	2 mismatches	4	secondary
+chrX	585865	11	3	57	-	3 mismatches	-	secondary
+chrX	585923	28	4	2628	585924	TTACCCG	0	primary
+chrX	585988	41	3	48	-	3 mismatches	-	secondary
+chrX	594711	28	4	2347	594711	TTACCCG	0	primary
+chrX	594758	20	3	89	594773	1 mismatches	15	secondary
+chrX	598480	26	2	53	598480	TTACCCG	0	monomer
+chrX	606542	28	2	43	606543	TTACCCG	0	monomer
+chrX	612214	27	4	336	612214	TTACCCG	0	monomer
+chrX	615284	17	2	182	-	3 mismatches	-	secondary
+chrX	615321	29	4	882	615321	TTACCCG	0	primary
+chrX	615366	37	3	49	615364	2 mismatches	-1	secondary
+chrX	649548	26	2	42	-	3 mismatches	-	secondary
+chrX	649586	29	4	155	649588	TTACCCT	1	primary
+chrX	649625	15	2	30	649637	2 mismatches	12	secondary
+chrX	663578	47	4	241	663588	TTACCCT	9	monomer
+chrX	683593	28	3	55	-	3 mismatches	-	secondary
+chrX	683627	26	4	185	683628	TTACCCG	1	primary
+chrX	683697	22	2	31	683705	2 mismatches	8	secondary
+chrX	683744	28	2	24	683726	2 mismatches	-18	secondary
+chrX	706097	28	3	60	706097	TTACCCT	0	monomer
+chrX	745298	29	3	43	-	3 mismatches	-	monomer
+chrX	745485	30	3	97	745470	TTACCCT	-15	secondary
+chrX	745555	29	4	1012	745554	TTACCCT	-1	primary
+chrX	745670	41	3	97	745654	2 mismatches	-16	monomer
+chrXI	68	26	3	118	78	2 mismatches	10	secondary
+chrXI	112	40	3	449	131	TTACCCT	19	secondary
+chrXI	148	28	3	534	151	TTACCCT	2	primary
+chrXI	193	40	3	340	205	2 mismatches	12	secondary
+chrXI	240	38	4	211	232	TTACCCT	-8	secondary
+chrXI	501	29	3	56	481	TTACCCT	-20	primary
+chrXI	532	29	2	35	-	3 mismatches	-	secondary
+chrXI	20908	34	4	504	20916	1 mismatches	7	monomer
+chrXI	21057	2	2	18	-	3 mismatches	-	monomer
+chrXI	63641	26	3	114	63640	TTACCCG	-1	monomer
+chrXI	65826	27	4	278	65826	TTACCCT	0	monomer
+chrXI	71056	24	3	42	71056	1 mismatches	0	monomer
+chrXI	82798	16	3	152	82805	1 mismatches	7	monomer
+chrXI	99825	27	3	41	99821	2 mismatches	-4	secondary
+chrXI	99880	27	4	349	99880	1 mismatches	0	primary
+chrXI	99923	5	2	134	99929	2 mismatches	6	secondary
+chrXI	101130	26	4	119	101130	TTACCCT	0	monomer
+chrXI	171464	11	4	112	-	3 mismatches	-	primary
+chrXI	171527	14	3	75	171511	2 mismatches	-16	secondary
+chrXI	171573	24	4	160	171592	2 mismatches	19	secondary
+chrXI	171616	32	4	221	-	3 mismatches	-	secondary
+chrXI	171658	27	4	4566	171658	TTACCCG	0	primary
+chrXI	171706	43	3	73	-	3 mismatches	-	secondary
+chrXI	173760	34	2	30	173760	2 mismatches	0	monomer
+chrXI	174022	27	4	1244	174022	TTACCCG	0	primary
+chrXI	174058	27	3	122	174058	2 mismatches	0	secondary
+chrXI	178236	34	3	28	178240	2 mismatches	4	secondary
+chrXI	178279	27	4	542	178280	TTACCCG	0	primary
+chrXI	178314	35	2	89	178322	2 mismatches	7	secondary
+chrXI	207630	28	3	111	207631	TTACCCT	0	monomer
+chrXI	212742	25	2	81	212746	2 mismatches	4	secondary
+chrXI	212788	28	4	2311	212789	TTACCCT	0	primary
+chrXI	212828	32	3	56	-	3 mismatches	-	secondary
+chrXI	219808	15	3	96	219802	1 mismatches	-6	monomer
+chrXI	225871	31	2	22	225872	1 mismatches	0	monomer
+chrXI	228746	22	2	50	228758	2 mismatches	11	secondary
+chrXI	228790	30	4	970	228799	1 mismatches	9	primary
+chrXI	245379	34	3	47	-	3 mismatches	-	secondary
+chrXI	245432	29	4	2515	245433	TTACCCG	1	primary
+chrXI	245466	30	3	94	245484	2 mismatches	18	secondary
+chrXI	277722	27	4	668	277722	TTACCCG	0	monomer
+chrXI	282273	18	2	24	282283	2 mismatches	10	secondary
+chrXI	282325	16	3	110	-	3 mismatches	-	secondary
+chrXI	282364	28	4	2520	282363	TTACCCT	-1	primary
+chrXI	284420	50	2	56	284424	2 mismatches	4	secondary
+chrXI	284463	27	4	1528	284463	TTACCCG	0	primary
+chrXI	298900	30	3	105	298902	1 mismatches	1	monomer
+chrXI	316911	20	3	82	316909	1 mismatches	-2	primary
+chrXI	316951	34	2	39	316954	2 mismatches	2	secondary
+chrXI	316992	28	2	22	-	3 mismatches	-	secondary
+chrXI	321464	38	3	24	321447	2 mismatches	-16	secondary
+chrXI	321502	25	4	201	321502	TTACCCT	0	primary
+chrXI	329240	27	4	619	329242	TTACCCG	1	primary
+chrXI	329286	25	4	60	-	3 mismatches	-	secondary
+chrXI	329613	46	3	33	-	3 mismatches	-	secondary
+chrXI	329668	26	4	147	329668	TTACCCG	0	primary
+chrXI	329709	7	2	29	-	3 mismatches	-	secondary
+chrXI	333786	27	3	64	333786	TTACCCT	0	monomer
+chrXI	339260	26	4	290	339262	TTACCCT	1	monomer
+chrXI	340352	6	2	132	340351	2 mismatches	0	secondary
+chrXI	340395	27	4	3454	340395	TTACCCG	0	primary
+chrXI	340446	41	2	122	-	3 mismatches	-	secondary
+chrXI	352620	29	4	275	352620	1 mismatches	0	monomer
+chrXI	371278	23	3	165	371276	1 mismatches	-1	monomer
+chrXI	373952	27	4	25	373953	TTACCCT	0	monomer
+chrXI	382607	28	4	460	382607	1 mismatches	0	primary
+chrXI	382660	24	2	53	382655	2 mismatches	-5	secondary
+chrXI	392046	26	4	469	392046	TTACCCT	0	monomer
+chrXI	425728	26	3	348	425728	TTACCCG	0	monomer
+chrXI	428809	27	3	89	428809	1 mismatches	0	monomer
+chrXI	437257	24	2	25	437255	1 mismatches	-2	monomer
+chrXI	440688	46	2	22	440688	TTACCCG	0	monomer
+chrXI	442540	26	4	112	442545	1 mismatches	4	monomer
+chrXI	450972	25	3	162	450972	1 mismatches	0	secondary
+chrXI	451048	16	3	251	-	3 mismatches	-	primary
+chrXI	462560	27	4	355	462560	TTACCCG	0	primary
+chrXI	462600	27	4	87	462619	2 mismatches	19	secondary
+chrXI	468487	16	2	114	468504	2 mismatches	17	secondary
+chrXI	468523	24	3	492	468521	TTACCCG	-2	primary
+chrXI	468578	28	3	89	468578	2 mismatches	0	secondary
+chrXI	468614	34	2	36	468615	2 mismatches	1	secondary
+chrXI	470397	26	2	27	470396	TTACCCG	-1	monomer
+chrXI	492898	27	3	39	492898	TTACCCG	0	monomer
+chrXI	493407	25	4	597	493407	TTACCCG	0	monomer
+chrXI	507444	28	4	322	507443	TTACCCG	-1	monomer
+chrXI	513678	27	3	76	513680	1 mismatches	2	monomer
+chrXI	526407	31	3	37	526403	TTACCCG	-4	monomer
+chrXI	559153	27	3	116	559154	TTACCCG	1	monomer
+chrXI	562061	26	4	145	562062	TTACCCG	0	monomer
+chrXI	567346	28	3	71	567348	1 mismatches	1	monomer
+chrXI	570638	18	2	61	570622	1 mismatches	-16	secondary
+chrXI	570685	28	4	2218	570686	TTACCCG	0	primary
+chrXI	570726	22	4	126	570717	2 mismatches	-8	secondary
+chrXI	570820	35	2	22	-	3 mismatches	-	secondary
+chrXI	572046	27	3	33	572046	TTACCCG	0	monomer
+chrXI	579885	19	2	33	-	3 mismatches	-	secondary
+chrXI	579927	25	4	395	579928	1 mismatches	1	primary
+chrXI	581474	29	2	47	581463	2 mismatches	-11	secondary
+chrXI	581508	26	3	169	581508	TTACCCT	0	primary
+chrXI	589296	30	2	32	589302	2 mismatches	6	secondary
+chrXI	589333	27	3	720	589331	TTACCCG	-2	primary
+chrXI	589430	17	2	18	-	3 mismatches	-	secondary
+chrXI	619166	13	3	102	619169	1 mismatches	3	monomer
+chrXI	626068	22	4	107	626066	1 mismatches	-1	monomer
+chrXI	666082	25	4	649	666080	TTACCCT	-2	primary
+chrXI	666133	29	3	97	666114	TTACCCT	-19	secondary
+chrXI	666168	28	4	305	666166	TTACCCT	-2	primary
+chrXI	666216	30	3	247	666233	2 mismatches	16	secondary
+chrXI	666255	29	3	121	-	3 mismatches	-	secondary
+chrXI	666340	28	3	62	-	3 mismatches	-	secondary
+chrXI	666408	43	3	146	-	3 mismatches	-	primary
+chrXII	74	36	4	300	-	3 mismatches	-	monomer
+chrXII	5724	36	4	635	-	3 mismatches	-	secondary
+chrXII	5757	23	2	1095	5764	TTACCCG	6	primary
+chrXII	5803	11	3	79	5816	2 mismatches	13	secondary
+chrXII	5849	33	3	73	-	3 mismatches	-	secondary
+chrXII	11220	31	3	41	-	3 mismatches	-	secondary
+chrXII	11258	30	2	72	-	3 mismatches	-	primary
+chrXII	11380	33	3	199	-	3 mismatches	-	secondary
+chrXII	11421	29	2	331	11422	TTACCCT	1	primary
+chrXII	11560	29	3	99	11560	TTACCCT	0	monomer
+chrXII	40555	27	4	318	40556	TTACCCG	0	primary
+chrXII	40638	12	2	23	40645	2 mismatches	7	secondary
+chrXII	41056	26	3	78	41056	TTACCCG	0	monomer
+chrXII	63814	33	2	66	-	3 mismatches	-	secondary
+chrXII	63854	27	4	1696	63854	TTACCCG	0	primary
+chrXII	63892	21	2	70	-	3 mismatches	-	secondary
+chrXII	65448	25	2	37	65441	2 mismatches	-7	secondary
+chrXII	65493	33	3	204	65479	1 mismatches	-13	primary
+chrXII	80414	29	3	31	80414	TTACCCT	0	monomer
+chrXII	81141	26	2	41	81128	1 mismatches	-13	secondary
+chrXII	81180	28	4	562	81180	TTACCCG	0	primary
+chrXII	81225	27	3	34	81227	1 mismatches	2	secondary
+chrXII	83379	23	2	31	-	3 mismatches	-	secondary
+chrXII	83419	26	4	133	83420	TTACCCG	0	primary
+chrXII	83451	27	2	36	83444	2 mismatches	-7	secondary
+chrXII	83512	18	4	116	83516	TTACCCT	3	primary
+chrXII	83543	15	2	25	-	3 mismatches	-	secondary
+chrXII	87043	24	3	158	87047	2 mismatches	4	secondary
+chrXII	87080	24	4	202	87081	1 mismatches	0	primary
+chrXII	100698	27	3	145	100697	1 mismatches	-1	monomer
+chrXII	108558	21	3	50	108558	2 mismatches	0	monomer
+chrXII	121213	27	4	503	121213	TTACCCG	0	primary
+chrXII	125046	14	2	60	125060	2 mismatches	13	secondary
+chrXII	125117	28	4	2014	125116	TTACCCT	-1	primary
+chrXII	125156	26	3	148	125166	2 mismatches	10	secondary
+chrXII	129964	26	2	101	-	3 mismatches	-	secondary
+chrXII	130004	28	4	371	130004	TTACCCT	0	primary
+chrXII	130048	29	2	35	-	3 mismatches	-	secondary
+chrXII	131579	21	2	150	131576	TTACCCG	-3	monomer
+chrXII	169590	22	4	70	169589	TTACCCG	-1	monomer
+chrXII	197630	33	2	27	197631	TTACCCT	0	monomer
+chrXII	198601	29	3	60	198597	2 mismatches	-3	secondary
+chrXII	198631	26	4	377	198632	TTACCCT	0	primary
+chrXII	208613	28	4	130	208614	TTACCCG	0	monomer
+chrXII	212286	20	4	50	212283	1 mismatches	-3	monomer
+chrXII	234838	30	3	53	-	3 mismatches	-	secondary
+chrXII	234889	30	4	259	234890	TTACCCT	1	primary
+chrXII	234939	24	2	29	234953	1 mismatches	13	secondary
+chrXII	293710	14	3	125	293717	1 mismatches	6	primary
+chrXII	293794	32	2	21	293794	2 mismatches	0	secondary
+chrXII	296369	23	3	60	296370	1 mismatches	0	monomer
+chrXII	329520	12	3	118	329500	2 mismatches	-20	secondary
+chrXII	329564	28	4	350	329565	TTACCCG	0	primary
+chrXII	370800	14	2	23	370781	2 mismatches	-19	monomer
+chrXII	371307	39	4	2642	371313	TTACCCT	5	primary
+chrXII	371348	22	3	105	371339	2 mismatches	-8	secondary
+chrXII	377404	24	2	60	377423	2 mismatches	19	secondary
+chrXII	377457	45	4	724	377447	TTACCCG	-10	primary
+chrXII	399489	27	4	228	399490	TTACCCT	0	monomer
+chrXII	402032	25	3	39	402026	TTACCCT	-6	monomer
+chrXII	424034	29	4	294	424033	1 mismatches	-1	primary
+chrXII	424073	49	3	42	424082	2 mismatches	9	secondary
+chrXII	427118	14	2	55	427134	1 mismatches	15	monomer
+chrXII	437204	27	3	173	437204	TTACCCT	0	primary
+chrXII	437239	15	3	26	437247	2 mismatches	8	secondary
+chrXII	440060	23	2	43	440057	2 mismatches	-3	secondary
+chrXII	440097	20	4	676	440093	TTACCCG	-4	primary
+chrXII	459792	23	4	54	459777	2 mismatches	-14	secondary
+chrXII	459861	31	3	95	-	3 mismatches	-	secondary
+chrXII	459905	19	4	206	-	3 mismatches	-	primary
+chrXII	459947	35	3	160	-	3 mismatches	-	secondary
+chrXII	460067	32	4	93	460066	1 mismatches	-1	secondary
+chrXII	460109	18	2	167	460124	2 mismatches	14	primary
+chrXII	460191	17	4	137	-	3 mismatches	-	secondary
+chrXII	460235	27	4	95	460251	2 mismatches	16	secondary
+chrXII	460289	29	4	158	-	3 mismatches	-	secondary
+chrXII	460336	27	4	245	460333	2 mismatches	-3	primary
+chrXII	460419	23	3	114	-	3 mismatches	-	secondary
+chrXII	460465	19	3	62	460458	2 mismatches	-7	secondary
+chrXII	460508	22	4	88	460507	2 mismatches	-1	secondary
+chrXII	460560	22	4	211	460566	2 mismatches	6	primary
+chrXII	489465	18	3	215	489450	2 mismatches	-15	secondary
+chrXII	489500	28	4	3080	489501	TTACCCG	0	primary
+chrXII	489535	19	2	527	-	3 mismatches	-	secondary
+chrXII	489590	30	4	3842	489591	TTACCCG	0	primary
+chrXII	489637	7	2	2525	489650	TTACCCG	13	secondary
+chrXII	490672	26	4	683	490672	TTACCCT	0	primary
+chrXII	490713	28	3	79	490705	1 mismatches	-8	secondary
+chrXII	490775	28	4	451	490771	TTACCCG	-4	primary
+chrXII	500488	26	3	71	500480	1 mismatches	-8	monomer
+chrXII	501194	28	4	717	501195	TTACCCG	0	monomer
+chrXII	504221	37	4	158	504221	1 mismatches	0	monomer
+chrXII	514379	16	2	15	514373	1 mismatches	-6	secondary
+chrXII	514478	27	2	119	514479	1 mismatches	0	primary
+chrXII	543791	25	2	138	543789	TTACCCG	-2	monomer
+chrXII	559346	28	3	141	559347	TTACCCG	0	monomer
+chrXII	566421	29	3	226	566421	TTACCCG	0	monomer
+chrXII	585977	15	4	173	585976	2 mismatches	-1	secondary
+chrXII	586027	28	4	1103	586027	TTACCCG	0	primary
+chrXII	586070	41	2	182	586089	2 mismatches	18	secondary
+chrXII	605120	29	4	966	605120	TTACCCG	0	primary
+chrXII	605169	37	3	56	-	3 mismatches	-	secondary
+chrXII	633477	20	3	53	633474	1 mismatches	-3	monomer
+chrXII	636275	21	3	62	636268	TTACCCG	-7	monomer
+chrXII	640155	33	2	36	640161	TTACCCT	5	monomer
+chrXII	645836	25	2	20	-	3 mismatches	-	secondary
+chrXII	645871	22	2	57	645884	2 mismatches	13	secondary
+chrXII	645905	28	3	328	645905	TTACCCG	0	primary
+chrXII	645952	26	3	61	645960	1 mismatches	8	secondary
+chrXII	669060	19	4	672	669066	TTACCCG	5	primary
+chrXII	669110	2	2	52	669105	2 mismatches	-5	secondary
+chrXII	680985	11	2	34	680983	1 mismatches	-2	monomer
+chrXII	694234	28	4	192	694234	TTACCCG	0	monomer
+chrXII	699756	27	4	83	699756	TTACCCG	0	monomer
+chrXII	704707	26	3	80	704706	1 mismatches	-1	monomer
+chrXII	725528	27	4	414	725528	TTACCCG	0	monomer
+chrXII	737901	13	3	74	737895	1 mismatches	-6	monomer
+chrXII	747730	26	4	591	747727	TTACCCG	-3	monomer
+chrXII	751903	23	4	143	751902	TTACCCG	-1	monomer
+chrXII	796460	24	2	24	796459	1 mismatches	0	monomer
+chrXII	830833	27	4	1154	830834	TTACCCG	0	monomer
+chrXII	840145	27	3	196	840145	TTACCCG	0	monomer
+chrXII	841180	14	3	78	841173	1 mismatches	-7	monomer
+chrXII	843987	18	2	29	-	3 mismatches	-	secondary
+chrXII	844044	22	4	233	844053	TTACCCT	9	primary
+chrXII	877441	34	2	2313	-	3 mismatches	-	primary
+chrXII	877504	29	4	363	877515	2 mismatches	11	secondary
+chrXII	877549	28	4	1927	877549	TTACCCG	0	primary
+chrXII	877744	36	2	31	877729	2 mismatches	-14	secondary
+chrXII	877784	43	2	41	877775	1 mismatches	-9	primary
+chrXII	899010	44	3	239	899023	2 mismatches	12	secondary
+chrXII	899053	27	3	327	899053	TTACCCG	0	primary
+chrXII	903493	27	4	249	903494	TTACCCG	0	primary
+chrXII	903528	26	3	69	-	3 mismatches	-	secondary
+chrXII	924595	25	2	46	-	3 mismatches	-	secondary
+chrXII	924641	28	3	316	924643	1 mismatches	1	primary
+chrXII	924681	22	3	281	924686	TTACCCG	4	secondary
+chrXII	924737	24	3	74	-	3 mismatches	-	secondary
+chrXII	934334	23	3	68	934335	TTACCCT	1	monomer
+chrXII	948244	27	3	235	948243	TTACCCG	-1	monomer
+chrXII	986955	22	4	250	986953	TTACCCT	-2	monomer
+chrXII	1057213	25	3	89	1057215	TTACCCG	1	monomer
+chrXII	1064645	13	2	46	1064644	2 mismatches	-1	secondary
+chrXII	1064688	28	2	68	-	3 mismatches	-	primary
+chrXII	1064721	27	3	53	1064719	TTACCCT	-2	secondary
+chrXII	1064825	28	4	322	1064824	TTACCCT	-1	primary
+chrXII	1064920	29	2	148	-	3 mismatches	-	secondary
+chrXII	1064961	24	4	762	1064965	TTACCCT	3	primary
+chrXII	1065001	37	3	252	1065001	2 mismatches	0	secondary
+chrXII	1065084	44	3	171	-	3 mismatches	-	secondary
+chrXII	1071648	37	3	216	1071651	2 mismatches	3	monomer
+chrXIII	5549	25	3	21	-	3 mismatches	-	secondary
+chrXIII	5581	29	2	73	-	3 mismatches	-	primary
+chrXIII	14824	10	2	68	-	3 mismatches	-	secondary
+chrXIII	14867	28	4	1690	14868	TTACCCG	0	primary
+chrXIII	14908	45	2	517	-	3 mismatches	-	secondary
+chrXIII	23777	38	2	37	23788	2 mismatches	10	secondary
+chrXIII	23815	26	4	613	23814	TTACCCG	-1	primary
+chrXIII	23852	19	3	239	-	3 mismatches	-	secondary
+chrXIII	26286	32	3	70	26298	1 mismatches	11	primary
+chrXIII	26318	40	2	36	26298	1 mismatches	-20	secondary
+chrXIII	26655	34	3	127	26661	1 mismatches	5	monomer
+chrXIII	29916	14	2	32	29910	2 mismatches	-5	secondary
+chrXIII	29970	31	3	263	29961	2 mismatches	-8	secondary
+chrXIII	30006	29	4	1725	30006	TTACCCG	0	primary
+chrXIII	30098	42	2	46	30119	2 mismatches	21	secondary
+chrXIII	30353	42	2	21	30372	2 mismatches	19	secondary
+chrXIII	30393	28	4	195	30394	1 mismatches	0	primary
+chrXIII	30424	25	3	62	30420	2 mismatches	-3	secondary
+chrXIII	43685	27	4	421	43686	TTACCCG	0	primary
+chrXIII	43721	31	2	35	43730	2 mismatches	8	secondary
+chrXIII	43772	17	2	22	-	3 mismatches	-	secondary
+chrXIII	51500	45	2	36	-	3 mismatches	-	monomer
+chrXIII	67672	13	2	120	67679	TTACCCG	6	monomer
+chrXIII	68176	28	4	168	68177	1 mismatches	0	monomer
+chrXIII	70293	22	3	31	70289	1 mismatches	-4	monomer
+chrXIII	99553	11	4	194	99564	1 mismatches	10	monomer
+chrXIII	101609	33	2	24	101621	1 mismatches	11	secondary
+chrXIII	101661	26	2	45	101676	2 mismatches	15	secondary
+chrXIII	101705	27	4	688	101705	TTACCCG	0	primary
+chrXIII	104452	15	2	29	-	3 mismatches	-	secondary
+chrXIII	104525	29	4	968	104524	TTACCCG	-1	primary
+chrXIII	104590	33	2	35	104598	2 mismatches	8	secondary
+chrXIII	135337	26	4	158	135339	1 mismatches	1	primary
+chrXIII	158492	28	4	208	158492	TTACCCG	0	primary
+chrXIII	158533	31	2	37	158533	2 mismatches	0	secondary
+chrXIII	169959	14	4	178	169970	1 mismatches	11	primary
+chrXIII	170015	32	2	136	170011	TTACCCT	-4	secondary
+chrXIII	170083	2	2	16	-	3 mismatches	-	secondary
+chrXIII	192035	40	4	1088	192028	TTACCCG	-7	primary
+chrXIII	192092	53	2	34	192078	2 mismatches	-13	secondary
+chrXIII	195909	26	4	114	195909	TTACCCG	0	primary
+chrXIII	196001	26	3	32	-	3 mismatches	-	secondary
+chrXIII	214047	28	3	34	214049	1 mismatches	2	monomer
+chrXIII	216296	28	3	53	216296	1 mismatches	0	monomer
+chrXIII	247551	33	2	53	247553	1 mismatches	1	monomer
+chrXIII	253464	26	3	95	253464	TTACCCT	0	primary
+chrXIII	253503	33	3	91	253492	2 mismatches	-10	secondary
+chrXIII	253552	28	4	915	253550	TTACCCG	-2	primary
+chrXIII	253589	23	2	106	253597	2 mismatches	8	secondary
+chrXIII	253628	22	2	63	253641	2 mismatches	12	secondary
+chrXIII	266938	29	2	245	-	3 mismatches	-	secondary
+chrXIII	266969	28	4	2442	266969	TTACCCG	0	primary
+chrXIII	271697	25	3	46	271696	1 mismatches	-1	secondary
+chrXIII	271777	29	4	848	271777	TTACCCG	0	primary
+chrXIII	271815	19	3	233	271833	1 mismatches	18	secondary
+chrXIII	271849	19	2	65	271833	1 mismatches	-16	secondary
+chrXIII	271894	5	3	21	-	3 mismatches	-	secondary
+chrXIII	271949	23	2	42	-	3 mismatches	-	primary
+chrXIII	272982	27	4	255	272982	TTACCCT	0	monomer
+chrXIII	284705	25	3	49	284713	1 mismatches	8	monomer
+chrXIII	296923	32	3	100	296906	2 mismatches	-17	secondary
+chrXIII	296970	28	4	369	296961	TTACCCG	-9	primary
+chrXIII	302856	43	4	170	302853	2 mismatches	-3	secondary
+chrXIII	302894	29	4	603	302894	TTACCCG	0	primary
+chrXIII	303025	9	2	29	303017	1 mismatches	-8	monomer
+chrXIII	306806	12	3	47	-	3 mismatches	-	secondary
+chrXIII	306856	29	4	1040	306856	TTACCCG	0	primary
+chrXIII	306916	16	2	57	306931	1 mismatches	15	secondary
+chrXIII	312117	16	2	40	-	3 mismatches	-	secondary
+chrXIII	312148	11	2	60	312145	1 mismatches	-3	primary
+chrXIII	318547	25	2	44	318548	TTACCCG	0	monomer
+chrXIII	321782	20	3	62	321781	TTACCCG	-1	monomer
+chrXIII	349956	44	3	72	-	3 mismatches	-	secondary
+chrXIII	349996	27	4	640	349995	TTACCCG	-1	primary
+chrXIII	350029	26	2	64	-	3 mismatches	-	secondary
+chrXIII	366835	27	2	25	366855	2 mismatches	19	secondary
+chrXIII	366872	27	4	739	366872	TTACCCG	0	primary
+chrXIII	366948	17	2	23	-	3 mismatches	-	secondary
+chrXIII	370675	24	3	75	370675	1 mismatches	0	monomer
+chrXIII	382999	18	3	74	382995	1 mismatches	-4	monomer
+chrXIII	408460	30	4	205	408462	1 mismatches	1	primary
+chrXIII	408514	30	2	20	408512	2 mismatches	-2	secondary
+chrXIII	413589	13	3	85	413585	1 mismatches	-4	monomer
+chrXIII	420242	14	3	29	420248	1 mismatches	5	monomer
+chrXIII	420508	24	3	74	420509	TTACCCT	0	monomer
+chrXIII	451525	16	3	30	451530	TTACCCG	4	monomer
+chrXIII	469646	28	3	39	469647	TTACCCT	0	monomer
+chrXIII	478825	16	2	22	478817	2 mismatches	-7	secondary
+chrXIII	478867	16	3	126	478861	TTACCCT	-6	primary
+chrXIII	483160	40	3	44	-	3 mismatches	-	secondary
+chrXIII	483206	44	3	238	-	3 mismatches	-	secondary
+chrXIII	483244	26	4	819	483245	TTACCCG	0	primary
+chrXIII	483291	28	3	96	-	3 mismatches	-	secondary
+chrXIII	501951	19	2	48	-	3 mismatches	-	secondary
+chrXIII	501986	18	3	87	502005	2 mismatches	19	secondary
+chrXIII	502022	28	4	2748	502022	TTACCCG	0	primary
+chrXIII	510442	1	2	48	510450	1 mismatches	7	secondary
+chrXIII	510502	27	4	1051	510502	TTACCCG	0	primary
+chrXIII	510587	21	2	98	-	3 mismatches	-	secondary
+chrXIII	513455	22	3	58	513455	TTACCCG	0	monomer
+chrXIII	514020	26	3	56	514020	TTACCCG	0	monomer
+chrXIII	538622	30	2	45	538602	2 mismatches	-20	monomer
+chrXIII	545800	29	4	192	545800	TTACCCG	0	monomer
+chrXIII	547511	17	2	57	547511	2 mismatches	0	secondary
+chrXIII	547550	27	4	2007	547551	TTACCCG	0	primary
+chrXIII	547614	35	3	43	547599	2 mismatches	-15	secondary
+chrXIII	558721	25	4	135	558722	1 mismatches	1	monomer
+chrXIII	560791	24	3	123	560789	TTACCCG	-2	monomer
+chrXIII	564286	28	4	349	564286	TTACCCG	0	monomer
+chrXIII	577572	25	3	49	577572	1 mismatches	0	monomer
+chrXIII	626032	25	2	52	-	3 mismatches	-	secondary
+chrXIII	626099	29	4	1155	626098	TTACCCG	-1	primary
+chrXIII	626152	41	3	60	626143	2 mismatches	-9	secondary
+chrXIII	626190	45	2	21	626201	2 mismatches	11	secondary
+chrXIII	628001	25	3	71	628002	1 mismatches	0	secondary
+chrXIII	628038	9	4	156	628049	1 mismatches	10	primary
+chrXIII	628888	27	4	576	628888	TTACCCG	0	monomer
+chrXIII	632107	29	3	589	632108	TTACCCG	1	primary
+chrXIII	632163	37	3	26	632164	2 mismatches	1	secondary
+chrXIII	637137	30	3	82	-	3 mismatches	-	secondary
+chrXIII	637182	28	4	4020	637182	TTACCCG	0	primary
+chrXIII	645524	34	4	161	645521	1 mismatches	-3	monomer
+chrXIII	652120	26	4	230	652120	TTACCCG	0	monomer
+chrXIII	653449	32	3	85	653460	1 mismatches	11	monomer
+chrXIII	675294	30	2	30	675292	2 mismatches	-2	secondary
+chrXIII	675357	27	3	328	675357	TTACCCT	0	primary
+chrXIII	684093	27	4	1078	684093	TTACCCT	0	monomer
+chrXIII	695181	42	2	344	-	3 mismatches	-	secondary
+chrXIII	695218	29	4	2496	695218	TTACCCG	0	primary
+chrXIII	695252	24	3	184	695258	2 mismatches	6	secondary
+chrXIII	715521	33	2	40	-	3 mismatches	-	secondary
+chrXIII	715566	27	4	424	715566	TTACCCG	0	primary
+chrXIII	763246	34	4	383	763230	1 mismatches	-16	monomer
+chrXIII	777687	23	2	31	777688	TTACCCT	1	monomer
+chrXIII	782508	26	3	88	782509	TTACCCG	0	monomer
+chrXIII	795664	11	3	55	795656	1 mismatches	-8	monomer
+chrXIII	798045	27	3	1757	798044	TTACCCG	-1	primary
+chrXIII	798094	19	2	144	798107	2 mismatches	13	secondary
+chrXIII	832079	12	2	120	-	3 mismatches	-	secondary
+chrXIII	832117	23	4	599	832116	TTACCCG	-1	primary
+chrXIII	851776	51	4	721	851765	TTACCCG	-11	primary
+chrXIII	851823	52	3	73	851805	2 mismatches	-17	secondary
+chrXIII	851862	11	2	27	-	3 mismatches	-	secondary
+chrXIII	854612	18	2	38	854601	2 mismatches	-11	secondary
+chrXIII	854650	26	4	333	854652	TTACCCG	2	primary
+chrXIII	854686	19	2	27	-	3 mismatches	-	secondary
+chrXIII	854729	24	2	18	854734	2 mismatches	5	secondary
+chrXIII	881011	15	4	110	881001	TTACCCG	-10	monomer
+chrXIII	897701	27	2	30	897692	2 mismatches	-9	secondary
+chrXIII	897749	28	4	514	897749	TTACCCG	0	primary
+chrXIII	897790	17	2	53	-	3 mismatches	-	secondary
+chrXIII	923850	36	3	58	923868	TTACCCT	17	secondary
+chrXIII	923889	29	3	99	923868	TTACCCT	-21	primary
+chrXIII	923962	44	3	35	923977	TTACCCT	15	secondary
+chrXIII	924083	28	3	130	924082	TTACCCT	-1	primary
+chrXIII	924127	29	2	97	924119	TTACCCT	-8	secondary
+chrXIII	924203	29	4	476	924203	TTACCCT	0	secondary
+chrXIII	924261	29	4	514	924260	TTACCCT	-1	primary
+chrXIII	924318	42	4	174	-	3 mismatches	-	secondary
+chrXIV	6688	29	3	150	6705	2 mismatches	17	secondary
+chrXIV	6734	30	3	548	6747	TTACCCT	12	primary
+chrXIV	6819	28	2	40	-	3 mismatches	-	secondary
+chrXIV	6897	31	4	246	6897	TTACCCT	0	primary
+chrXIV	7090	22	4	249	7093	TTACCCT	2	monomer
+chrXIV	19466	44	2	132	19457	TTACCCT	-9	monomer
+chrXIV	56028	23	4	540	56031	TTACCCG	2	monomer
+chrXIV	59927	20	3	105	59925	1 mismatches	-2	monomer
+chrXIV	64737	33	4	809	64734	TTACCCG	-3	primary
+chrXIV	64787	34	2	41	64802	2 mismatches	14	secondary
+chrXIV	88911	28	3	27	-	3 mismatches	-	secondary
+chrXIV	88943	27	4	290	88943	1 mismatches	0	primary
+chrXIV	91643	24	2	28	91647	1 mismatches	3	monomer
+chrXIV	104172	28	4	809	104173	TTACCCG	0	primary
+chrXIV	108285	24	3	228	108285	TTACCCG	0	monomer
+chrXIV	110651	12	3	28	110671	2 mismatches	20	secondary
+chrXIV	110726	27	4	630	110726	TTACCCG	0	primary
+chrXIV	110767	19	3	75	-	3 mismatches	-	secondary
+chrXIV	129299	21	3	66	129296	1 mismatches	-3	monomer
+chrXIV	135765	27	4	419	135765	TTACCCG	0	primary
+chrXIV	135799	34	3	83	135802	1 mismatches	2	secondary
+chrXIV	148039	30	2	36	-	3 mismatches	-	secondary
+chrXIV	148090	26	4	670	148089	TTACCCT	-1	primary
+chrXIV	148132	27	2	35	148132	2 mismatches	0	secondary
+chrXIV	148166	23	2	25	-	3 mismatches	-	secondary
+chrXIV	187686	36	3	132	187692	TTACCCG	5	primary
+chrXIV	187739	37	2	29	187727	2 mismatches	-12	secondary
+chrXIV	187777	46	2	26	-	3 mismatches	-	secondary
+chrXIV	214744	27	3	191	214745	TTACCCG	0	monomer
+chrXIV	216440	27	4	138	216432	TTACCCT	-8	monomer
+chrXIV	220445	15	2	26	-	3 mismatches	-	secondary
+chrXIV	220484	22	2	46	-	3 mismatches	-	secondary
+chrXIV	220527	11	4	386	220537	1 mismatches	9	primary
+chrXIV	220561	17	2	40	220541	2 mismatches	-19	secondary
+chrXIV	230826	27	4	311	230826	TTACCCG	0	monomer
+chrXIV	233871	26	4	502	233878	TTACCCG	6	monomer
+chrXIV	237930	11	3	48	237921	1 mismatches	-9	monomer
+chrXIV	241461	21	3	47	241465	1 mismatches	4	monomer
+chrXIV	266791	27	4	122	266791	TTACCCG	0	monomer
+chrXIV	270029	26	2	21	270047	2 mismatches	18	secondary
+chrXIV	270078	14	4	634	270085	TTACCCG	6	primary
+chrXIV	270143	39	3	27	-	3 mismatches	-	secondary
+chrXIV	281654	35	4	107	281662	1 mismatches	8	secondary
+chrXIV	281689	29	4	374	281690	TTACCCG	0	primary
+chrXIV	281731	23	3	176	281734	1 mismatches	2	secondary
+chrXIV	289098	27	4	190	289098	1 mismatches	0	monomer
+chrXIV	292876	26	3	81	292877	TTACCCG	0	monomer
+chrXIV	304719	16	2	61	304735	2 mismatches	15	secondary
+chrXIV	304755	26	4	1048	304756	1 mismatches	1	primary
+chrXIV	317857	32	3	218	-	3 mismatches	-	secondary
+chrXIV	317903	25	4	4283	317904	TTACCCT	1	primary
+chrXIV	317940	20	4	199	-	3 mismatches	-	secondary
+chrXIV	318130	34	2	36	318136	2 mismatches	6	monomer
+chrXIV	332303	27	4	2331	332303	TTACCCG	0	primary
+chrXIV	332347	25	3	138	332341	2 mismatches	-5	secondary
+chrXIV	335885	26	3	65	335885	TTACCCG	0	monomer
+chrXIV	340044	33	2	34	340040	2 mismatches	-3	secondary
+chrXIV	340109	1	4	125	340121	1 mismatches	12	secondary
+chrXIV	340167	29	4	973	340168	TTACCCG	1	primary
+chrXIV	340205	19	2	62	-	3 mismatches	-	secondary
+chrXIV	350020	27	4	137	350019	1 mismatches	-1	primary
+chrXIV	350090	33	2	40	350086	2 mismatches	-4	secondary
+chrXIV	355608	28	3	105	355608	1 mismatches	0	monomer
+chrXIV	372368	18	3	42	372373	1 mismatches	4	monomer
+chrXIV	373452	30	2	21	373454	1 mismatches	1	monomer
+chrXIV	375122	26	3	120	375122	TTACCCG	0	monomer
+chrXIV	387069	27	4	99	387066	TTACCCG	-3	monomer
+chrXIV	392691	16	4	68	392700	2 mismatches	9	secondary
+chrXIV	392745	29	4	3379	392745	TTACCCG	0	primary
+chrXIV	392784	23	2	65	392804	2 mismatches	19	secondary
+chrXIV	405768	20	4	235	405772	TTACCCT	3	secondary
+chrXIV	405815	28	4	1606	405816	TTACCCT	0	primary
+chrXIV	405849	33	3	110	405832	2 mismatches	-16	secondary
+chrXIV	405889	30	2	33	405910	1 mismatches	20	secondary
+chrXIV	412498	29	2	18	-	3 mismatches	-	secondary
+chrXIV	412569	24	2	93	412581	2 mismatches	12	secondary
+chrXIV	412620	35	4	1283	412606	TTACCCG	-14	primary
+chrXIV	417605	25	3	36	417618	2 mismatches	13	secondary
+chrXIV	417651	27	4	981	417652	TTACCCG	1	primary
+chrXIV	417691	47	2	69	417696	2 mismatches	5	secondary
+chrXIV	427425	27	3	396	427418	1 mismatches	-7	monomer
+chrXIV	439415	22	3	18	439413	TTACCCG	-2	monomer
+chrXIV	452058	11	3	76	-	3 mismatches	-	secondary
+chrXIV	452110	33	2	234	-	3 mismatches	-	secondary
+chrXIV	452147	26	3	3416	452148	TTACCCG	0	primary
+chrXIV	452180	23	4	136	452194	2 mismatches	14	secondary
+chrXIV	452223	6	2	54	452228	2 mismatches	5	secondary
+chrXIV	456232	17	2	53	456227	2 mismatches	-5	secondary
+chrXIV	456299	24	4	1012	456303	TTACCCG	3	primary
+chrXIV	456345	39	2	61	-	3 mismatches	-	secondary
+chrXIV	459600	25	3	110	459600	TTACCCT	0	monomer
+chrXIV	478341	27	4	426	478342	TTACCCG	0	monomer
+chrXIV	479332	11	3	171	479311	2 mismatches	-21	secondary
+chrXIV	479392	41	3	513	479385	TTACCCG	-7	primary
+chrXIV	485431	27	4	243	485431	TTACCCG	0	monomer
+chrXIV	500656	18	3	163	500656	2 mismatches	0	secondary
+chrXIV	500691	32	4	247	500694	TTACCCG	2	primary
+chrXIV	500733	18	2	36	500721	2 mismatches	-12	secondary
+chrXIV	502348	20	2	170	502353	TTACCCG	4	primary
+chrXIV	502389	27	2	41	502408	TTACCCT	19	secondary
+chrXIV	503275	18	4	103	503278	2 mismatches	3	secondary
+chrXIV	503315	28	4	1354	503316	TTACCCG	0	primary
+chrXIV	503369	35	3	73	503377	1 mismatches	7	secondary
+chrXIV	503399	47	2	63	503406	2 mismatches	7	secondary
+chrXIV	525936	21	3	53	525935	1 mismatches	-1	monomer
+chrXIV	538022	35	2	29	538012	2 mismatches	-9	secondary
+chrXIV	538056	24	4	271	538058	TTACCCG	1	primary
+chrXIV	569957	12	2	43	569950	2 mismatches	-7	monomer
+chrXIV	602433	19	3	103	602429	TTACCCT	-4	monomer
+chrXIV	618316	28	3	57	-	3 mismatches	-	secondary
+chrXIV	618362	24	4	1174	618362	TTACCCT	0	primary
+chrXIV	618396	17	3	170	618393	2 mismatches	-2	secondary
+chrXIV	619928	25	4	429	619928	TTACCCT	0	monomer
+chrXIV	647002	16	2	28	647010	2 mismatches	7	secondary
+chrXIV	647053	37	4	748	647057	TTACCCG	3	secondary
+chrXIV	647084	44	2	930	-	3 mismatches	-	primary
+chrXIV	647179	24	2	26	647189	2 mismatches	10	secondary
+chrXIV	651942	26	4	559	651941	TTACCCG	-1	primary
+chrXIV	651977	28	3	82	651979	TTACCCT	2	secondary
+chrXIV	652008	27	3	207	652007	TTACCCT	-1	primary
+chrXIV	652041	39	2	103	652054	2 mismatches	13	secondary
+chrXIV	652118	14	2	46	652119	2 mismatches	0	secondary
+chrXIV	662399	4	3	57	662403	2 mismatches	4	secondary
+chrXIV	662448	17	4	189	662438	2 mismatches	-10	secondary
+chrXIV	662495	14	2	418	662500	2 mismatches	5	secondary
+chrXIV	662532	26	4	1522	662533	TTACCCG	0	primary
+chrXIV	694923	27	4	192	694924	TTACCCG	0	monomer
+chrXIV	695481	22	3	214	695484	1 mismatches	2	monomer
+chrXIV	699549	47	2	44	699553	2 mismatches	4	secondary
+chrXIV	699594	26	4	2025	699594	TTACCCG	0	primary
+chrXIV	720862	27	4	273	720862	TTACCCG	0	monomer
+chrXIV	769636	22	3	72	769638	TTACCCT	1	monomer
+chrXIV	783606	11	3	73	783614	TTACCCT	8	primary
+chrXIV	783648	29	2	45	-	3 mismatches	-	secondary
+chrXIV	783803	31	3	125	783807	TTACCCT	4	primary
+chrXIV	784064	27	3	68	-	3 mismatches	-	monomer
+chrXIV	784185	32	3	42	-	3 mismatches	-	secondary
+chrXIV	784243	40	3	145	-	3 mismatches	-	primary
+chrXV	76	9	3	80	-	3 mismatches	-	secondary
+chrXV	143	25	3	358	159	TTACCCT	16	secondary
+chrXV	187	27	4	994	189	TTACCCT	1	primary
+chrXV	309	25	4	405	311	TTACCCT	1	monomer
+chrXV	484	16	3	111	-	3 mismatches	-	secondary
+chrXV	519	26	3	176	519	TTACCCT	0	primary
+chrXV	572	12	3	38	-	3 mismatches	-	secondary
+chrXV	47715	27	4	815	47715	TTACCCG	0	monomer
+chrXV	52954	26	4	115	52955	TTACCCG	0	monomer
+chrXV	55342	15	3	33	55326	2 mismatches	-15	secondary
+chrXV	55399	42	2	64	55398	2 mismatches	0	secondary
+chrXV	55444	27	4	279	55444	1 mismatches	0	primary
+chrXV	55504	26	2	29	-	3 mismatches	-	secondary
+chrXV	61250	18	4	58	61255	TTACCCG	5	monomer
+chrXV	77426	28	4	256	77427	TTACCCT	0	monomer
+chrXV	81654	25	2	30	-	3 mismatches	-	monomer
+chrXV	86914	28	3	114	86914	TTACCCG	0	monomer
+chrXV	87293	28	3	156	87294	TTACCCG	0	monomer
+chrXV	109383	31	4	86	109385	1 mismatches	1	monomer
+chrXV	109564	32	2	20	-	3 mismatches	-	secondary
+chrXV	109616	26	4	377	109617	TTACCCG	0	primary
+chrXV	109650	36	3	71	109658	2 mismatches	7	secondary
+chrXV	128432	27	4	238	128431	TTACCCT	-1	primary
+chrXV	128494	31	2	26	-	3 mismatches	-	secondary
+chrXV	144082	11	3	120	144073	TTACCCG	-9	monomer
+chrXV	153654	26	3	121	153655	TTACCCT	0	monomer
+chrXV	159405	31	2	25	159401	2 mismatches	-4	monomer
+chrXV	161362	13	3	40	161369	1 mismatches	7	monomer
+chrXV	170605	14	4	119	170600	1 mismatches	-5	monomer
+chrXV	212106	25	4	84	212106	TTACCCT	0	monomer
+chrXV	220288	30	3	50	220288	TTACCCT	0	monomer
+chrXV	232323	23	3	67	232322	1 mismatches	0	monomer
+chrXV	234057	10	3	41	-	3 mismatches	-	secondary
+chrXV	234121	29	4	680	234120	1 mismatches	-1	primary
+chrXV	234344	27	2	15	-	3 mismatches	-	monomer
+chrXV	234513	24	2	24	234512	2 mismatches	-1	secondary
+chrXV	234608	24	4	237	234607	TTACCCT	-1	primary
+chrXV	238485	10	3	82	238476	1 mismatches	-9	monomer
+chrXV	255195	19	3	46	255194	1 mismatches	-1	monomer
+chrXV	256822	17	2	59	256821	2 mismatches	-1	monomer
+chrXV	267681	26	4	88	267680	TTACCCG	-1	monomer
+chrXV	273894	28	3	53	273895	TTACCCT	0	monomer
+chrXV	277919	21	4	95	277917	TTACCCG	-2	monomer
+chrXV	285584	28	4	841	285585	TTACCCG	0	monomer
+chrXV	304200	10	3	58	304196	1 mismatches	-4	monomer
+chrXV	304410	18	2	94	304420	2 mismatches	9	secondary
+chrXV	304459	28	4	1432	304459	TTACCCG	0	primary
+chrXV	304494	21	3	152	304474	2 mismatches	-20	secondary
+chrXV	315670	29	4	1373	315671	TTACCCG	0	monomer
+chrXV	316317	43	4	178	316336	TTACCCG	18	primary
+chrXV	316368	34	4	139	316375	2 mismatches	6	secondary
+chrXV	316408	28	3	61	316400	2 mismatches	-8	secondary
+chrXV	316447	33	2	85	316449	2 mismatches	2	primary
+chrXV	316569	28	3	2951	316571	TTACCCG	1	primary
+chrXV	316600	27	3	460	316599	TTACCCG	-1	secondary
+chrXV	357309	22	3	27	357306	1 mismatches	-3	monomer
+chrXV	371028	28	3	76	371027	1 mismatches	-1	monomer
+chrXV	371537	26	3	58	371538	TTACCCG	0	monomer
+chrXV	373609	28	4	466	373610	TTACCCG	0	monomer
+chrXV	377958	13	3	231	377947	2 mismatches	-11	secondary
+chrXV	378006	28	4	750	378006	TTACCCG	0	primary
+chrXV	391703	22	4	100	391705	TTACCCT	1	monomer
+chrXV	412556	34	3	59	-	3 mismatches	-	secondary
+chrXV	412601	26	4	365	412601	TTACCCG	0	primary
+chrXV	416047	27	4	135	416046	TTACCCG	-1	monomer
+chrXV	418069	26	3	55	418069	TTACCCG	0	monomer
+chrXV	421761	32	2	51	-	3 mismatches	-	secondary
+chrXV	421798	27	4	603	421798	TTACCCG	0	primary
+chrXV	421838	23	2	27	421850	2 mismatches	12	secondary
+chrXV	443355	32	2	25	443353	1 mismatches	-1	monomer
+chrXV	446990	30	2	28	447000	TTACCCT	10	monomer
+chrXV	461618	29	3	18	-	3 mismatches	-	secondary
+chrXV	461690	29	4	164	461690	1 mismatches	0	primary
+chrXV	464586	21	4	164	464588	TTACCCG	1	monomer
+chrXV	468004	21	2	33	468004	2 mismatches	0	secondary
+chrXV	468051	7	3	159	468033	2 mismatches	-18	secondary
+chrXV	468093	28	4	944	468094	TTACCCT	0	primary
+chrXV	468133	21	3	50	-	3 mismatches	-	secondary
+chrXV	468171	15	2	38	468184	1 mismatches	13	secondary
+chrXV	471747	27	4	454	471747	1 mismatches	0	monomer
+chrXV	502612	26	4	311	502615	TTACCCG	2	monomer
+chrXV	514753	27	3	51	514772	2 mismatches	19	secondary
+chrXV	514797	28	4	709	514798	TTACCCG	0	primary
+chrXV	544812	17	4	155	-	3 mismatches	-	secondary
+chrXV	544852	27	4	1137	544853	TTACCCG	0	primary
+chrXV	544904	9	2	38	-	3 mismatches	-	secondary
+chrXV	553018	27	2	244	553018	TTACCCG	0	monomer
+chrXV	554901	10	4	387	554911	TTACCCT	9	monomer
+chrXV	566361	29	4	1752	566361	TTACCCG	0	monomer
+chrXV	586499	27	3	93	586500	1 mismatches	1	monomer
+chrXV	605911	21	3	38	605908	TTACCCT	-3	monomer
+chrXV	609317	28	4	400	609317	TTACCCG	0	primary
+chrXV	609366	25	2	31	-	3 mismatches	-	secondary
+chrXV	611777	37	2	51	611773	2 mismatches	-3	secondary
+chrXV	611818	15	3	101	611826	2 mismatches	8	secondary
+chrXV	611870	27	4	831	611870	TTACCCG	0	primary
+chrXV	617074	26	4	661	617075	TTACCCT	0	primary
+chrXV	617109	34	2	38	-	3 mismatches	-	secondary
+chrXV	618577	27	3	125	618582	TTACCCG	4	primary
+chrXV	618623	32	2	39	-	3 mismatches	-	secondary
+chrXV	631947	31	4	359	631950	TTACCCG	2	primary
+chrXV	631988	11	3	59	631981	TTACCCT	-7	secondary
+chrXV	639712	20	4	82	639716	TTACCCT	3	primary
+chrXV	639740	13	2	42	-	3 mismatches	-	secondary
+chrXV	654088	21	2	39	654086	2 mismatches	-1	monomer
+chrXV	682324	23	4	74	682324	TTACCCG	0	monomer
+chrXV	683498	53	2	17	683497	2 mismatches	0	monomer
+chrXV	683649	45	2	25	-	3 mismatches	-	secondary
+chrXV	683702	32	3	84	-	3 mismatches	-	secondary
+chrXV	683738	29	4	924	683739	TTACCCG	1	primary
+chrXV	683789	21	4	119	683789	1 mismatches	0	secondary
+chrXV	689506	25	3	82	689507	TTACCCG	1	monomer
+chrXV	716972	27	4	338	716972	TTACCCG	0	primary
+chrXV	717010	26	3	31	-	3 mismatches	-	secondary
+chrXV	717154	51	2	20	717171	2 mismatches	17	monomer
+chrXV	720341	16	2	53	720334	2 mismatches	-7	secondary
+chrXV	720386	34	4	476	720384	TTACCCG	-2	primary
+chrXV	759669	27	4	1396	759669	TTACCCG	0	primary
+chrXV	759699	24	3	102	-	3 mismatches	-	secondary
+chrXV	759736	36	2	23	-	3 mismatches	-	secondary
+chrXV	762469	24	4	47	762472	1 mismatches	2	monomer
+chrXV	769532	28	2	36	769530	TTACCCG	-2	monomer
+chrXV	781644	29	4	1404	781644	TTACCCT	0	primary
+chrXV	781683	25	2	82	781681	2 mismatches	-1	secondary
+chrXV	787026	16	2	36	787020	TTACCCT	-6	monomer
+chrXV	796986	28	4	207	796986	TTACCCG	0	primary
+chrXV	813841	27	3	65	813842	1 mismatches	1	monomer
+chrXV	820319	28	4	323	820320	TTACCCG	0	monomer
+chrXV	826007	44	3	88	826006	2 mismatches	-1	monomer
+chrXV	832587	27	2	345	-	3 mismatches	-	secondary
+chrXV	832622	38	4	904	832628	TTACCCG	5	primary
+chrXV	832687	12	2	47	-	3 mismatches	-	secondary
+chrXV	836835	16	2	42	836835	1 mismatches	0	monomer
+chrXV	841186	12	4	94	841177	1 mismatches	-9	monomer
+chrXV	849520	15	4	97	849514	TTACCCG	-6	monomer
+chrXV	851981	28	4	104	851974	TTACCCG	-7	monomer
+chrXV	853979	26	2	36	853978	1 mismatches	-1	monomer
+chrXV	860512	27	4	1124	860512	TTACCCG	0	monomer
+chrXV	877925	28	4	852	877929	TTACCCG	3	secondary
+chrXV	877957	29	4	946	877957	TTACCCT	0	primary
+chrXV	878004	31	2	73	-	3 mismatches	-	secondary
+chrXV	878043	47	3	26	-	3 mismatches	-	secondary
+chrXV	882095	16	2	156	-	3 mismatches	-	secondary
+chrXV	882134	9	3	1487	882144	TTACCCG	9	primary
+chrXV	882178	28	2	172	882165	1 mismatches	-13	secondary
+chrXV	882218	11	2	41	-	3 mismatches	-	secondary
+chrXV	900076	26	4	175	900076	TTACCCG	0	monomer
+chrXV	911878	14	3	87	911871	TTACCCT	-7	monomer
+chrXV	912589	11	4	83	912582	2 mismatches	-7	secondary
+chrXV	912638	27	4	3819	912639	TTACCCT	0	primary
+chrXV	912680	30	4	297	912682	TTACCCG	1	secondary
+chrXV	912709	34	3	47	-	3 mismatches	-	secondary
+chrXV	925342	17	3	68	-	3 mismatches	-	secondary
+chrXV	925387	29	4	1243	925388	TTACCCG	0	primary
+chrXV	943507	26	4	142	943509	1 mismatches	2	monomer
+chrXV	948786	25	2	51	948791	1 mismatches	5	monomer
+chrXV	949597	47	2	76	-	3 mismatches	-	secondary
+chrXV	949650	27	4	592	949650	TTACCCG	0	primary
+chrXV	979499	36	3	49	-	3 mismatches	-	secondary
+chrXV	979560	5	2	251	979567	2 mismatches	7	secondary
+chrXV	979603	28	4	1633	979604	TTACCCG	0	primary
+chrXV	987867	14	3	18	987861	1 mismatches	-6	monomer
+chrXV	989639	27	3	74	989639	TTACCCG	0	monomer
+chrXV	1000947	27	4	150	1000948	TTACCCG	0	monomer
+chrXV	1003378	14	3	70	1003375	1 mismatches	-3	monomer
+chrXV	1017684	27	3	153	1017684	TTACCCT	0	primary
+chrXV	1017727	28	3	42	1017723	2 mismatches	-3	secondary
+chrXV	1028836	21	2	30	1028839	TTACCCG	2	monomer
+chrXV	1034400	38	4	56	1034406	1 mismatches	5	monomer
+chrXV	1036667	51	3	62	1036682	1 mismatches	15	monomer
+chrXV	1084284	23	3	65	-	3 mismatches	-	monomer
+chrXV	1091273	24	4	873	-	3 mismatches	-	monomer
+chrXVI	32899	27	4	375	32900	TTACCCG	0	monomer
+chrXVI	38944	28	4	411	38945	TTACCCG	0	monomer
+chrXVI	49097	29	4	847	49098	TTACCCG	1	primary
+chrXVI	49140	22	2	58	49137	2 mismatches	-2	secondary
+chrXVI	67253	24	3	101	67252	TTACCCG	-1	monomer
+chrXVI	75424	31	2	1390	-	3 mismatches	-	secondary
+chrXVI	75467	28	4	3510	75467	TTACCCG	0	primary
+chrXVI	75537	23	3	41	75534	2 mismatches	-2	secondary
+chrXVI	100313	30	4	342	100314	TTACCCG	0	monomer
+chrXVI	108359	26	4	166	108360	TTACCCG	0	monomer
+chrXVI	125874	27	4	375	125873	TTACCCG	-1	primary
+chrXVI	125909	41	2	108	-	3 mismatches	-	secondary
+chrXVI	125944	32	2	24	125945	1 mismatches	1	secondary
+chrXVI	138513	27	3	202	138514	TTACCCG	1	monomer
+chrXVI	147281	26	3	175	147281	TTACCCG	0	monomer
+chrXVI	153310	11	4	248	153321	TTACCCG	10	monomer
+chrXVI	159675	49	2	139	159694	2 mismatches	18	monomer
+chrXVI	163730	7	3	63	163736	2 mismatches	6	secondary
+chrXVI	163784	27	4	1437	163784	TTACCCG	0	primary
+chrXVI	163819	28	2	156	-	3 mismatches	-	secondary
+chrXVI	163904	23	2	28	-	3 mismatches	-	secondary
+chrXVI	187943	27	4	704	187942	2 mismatches	0	primary
+chrXVI	187999	2	2	37	-	3 mismatches	-	secondary
+chrXVI	189312	29	2	19	189314	TTACCCG	1	monomer
+chrXVI	198593	11	4	46	198583	1 mismatches	-10	monomer
+chrXVI	203057	27	4	115	203057	TTACCCT	0	monomer
+chrXVI	205086	28	4	1729	205086	TTACCCG	0	primary
+chrXVI	205126	22	2	122	-	3 mismatches	-	secondary
+chrXVI	205161	12	3	29	-	3 mismatches	-	secondary
+chrXVI	211993	28	4	278	211994	TTACCCG	0	monomer
+chrXVI	227934	18	3	19	227934	2 mismatches	0	secondary
+chrXVI	227982	28	4	198	227984	TTACCCT	1	primary
+chrXVI	230997	22	3	102	230995	TTACCCG	-2	monomer
+chrXVI	246325	22	2	56	246320	2 mismatches	-4	monomer
+chrXVI	259523	17	3	87	259535	1 mismatches	12	monomer
+chrXVI	261336	29	3	76	261336	1 mismatches	0	monomer
+chrXVI	264846	27	4	263	264846	TTACCCG	0	monomer
+chrXVI	280328	4	2	20	280343	1 mismatches	14	monomer
+chrXVI	281676	23	3	78	-	3 mismatches	-	secondary
+chrXVI	281712	21	3	156	281713	1 mismatches	1	primary
+chrXVI	292565	20	2	46	292562	TTACCCG	-3	monomer
+chrXVI	309871	43	2	21	309852	2 mismatches	-18	secondary
+chrXVI	309931	43	3	57	-	3 mismatches	-	secondary
+chrXVI	309975	29	4	448	309975	TTACCCT	0	primary
+chrXVI	310017	27	3	62	310019	2 mismatches	2	secondary
+chrXVI	321895	38	3	38	321878	2 mismatches	-17	secondary
+chrXVI	321948	27	3	403	321948	1 mismatches	0	primary
+chrXVI	321995	11	2	45	321983	2 mismatches	-12	secondary
+chrXVI	329207	26	2	26	-	3 mismatches	-	secondary
+chrXVI	329249	26	4	1584	329252	TTACCCT	2	primary
+chrXVI	329291	14	2	58	329302	2 mismatches	11	secondary
+chrXVI	340022	28	4	362	340022	TTACCCT	0	primary
+chrXVI	340085	33	2	48	-	3 mismatches	-	secondary
+chrXVI	360064	26	3	87	360065	TTACCCG	0	monomer
+chrXVI	393892	27	3	32	393893	1 mismatches	0	monomer
+chrXVI	408906	6	3	411	408906	2 mismatches	0	secondary
+chrXVI	408952	28	4	2579	408952	TTACCCG	0	primary
+chrXVI	408991	26	2	229	-	3 mismatches	-	secondary
+chrXVI	411725	15	2	32	-	3 mismatches	-	secondary
+chrXVI	411768	28	2	135	411768	1 mismatches	0	primary
+chrXVI	411808	27	2	17	411804	2 mismatches	-3	secondary
+chrXVI	413109	11	2	126	-	3 mismatches	-	monomer
+chrXVI	425382	26	3	175	425383	1 mismatches	0	primary
+chrXVI	425429	32	3	44	425409	1 mismatches	-20	secondary
+chrXVI	431753	39	3	49	431754	2 mismatches	0	monomer
+chrXVI	444371	34	2	64	444370	2 mismatches	-1	secondary
+chrXVI	444408	28	4	440	444409	TTACCCG	0	primary
+chrXVI	444442	35	2	28	-	3 mismatches	-	secondary
+chrXVI	450955	27	4	445	450955	TTACCCT	0	monomer
+chrXVI	454327	26	4	89	454325	1 mismatches	-1	monomer
+chrXVI	455061	35	2	17	-	3 mismatches	-	secondary
+chrXVI	455108	28	4	613	455108	TTACCCT	0	primary
+chrXVI	455206	18	2	26	-	3 mismatches	-	secondary
+chrXVI	456144	28	3	39	456144	TTACCCT	0	monomer
+chrXVI	457210	28	2	36	457210	TTACCCT	0	monomer
+chrXVI	465731	28	4	73	465732	TTACCCT	0	monomer
+chrXVI	482127	27	3	258	482127	TTACCCT	0	secondary
+chrXVI	482163	29	3	307	482164	TTACCCG	1	primary
+chrXVI	485940	31	2	35	-	3 mismatches	-	monomer
+chrXVI	499463	26	3	244	499462	1 mismatches	-1	primary
+chrXVI	499498	47	2	69	499510	2 mismatches	12	secondary
+chrXVI	517139	27	3	46	517144	TTACCCG	5	monomer
+chrXVI	520413	4	2	46	520421	2 mismatches	8	secondary
+chrXVI	520442	18	2	62	520437	1 mismatches	-5	primary
+chrXVI	534865	49	2	172	534855	TTACCCG	-10	monomer
+chrXVI	542198	18	2	29	542193	TTACCCG	-5	monomer
+chrXVI	583617	27	3	26	583617	TTACCCG	0	monomer
+chrXVI	592873	27	4	552	592874	TTACCCG	0	monomer
+chrXVI	593297	29	4	48	593298	TTACCCG	0	monomer
+chrXVI	614623	9	2	24	-	3 mismatches	-	secondary
+chrXVI	614665	28	4	780	614665	TTACCCG	0	primary
+chrXVI	614709	18	3	52	614705	2 mismatches	-4	secondary
+chrXVI	627133	26	4	1094	627134	TTACCCG	0	primary
+chrXVI	627211	10	3	18	-	3 mismatches	-	secondary
+chrXVI	627530	47	4	242	627521	TTACCCG	-9	monomer
+chrXVI	641198	31	2	48	-	3 mismatches	-	secondary
+chrXVI	641232	25	4	244	641232	1 mismatches	0	primary
+chrXVI	641485	29	4	245	641485	1 mismatches	0	secondary
+chrXVI	641539	29	4	6785	641539	TTACCCG	0	primary
+chrXVI	641585	11	3	189	-	3 mismatches	-	secondary
+chrXVI	643646	28	4	452	643646	TTACCCT	0	monomer
+chrXVI	648472	23	2	63	648474	TTACCCG	1	monomer
+chrXVI	653890	27	4	129	653891	1 mismatches	0	monomer
+chrXVI	664827	27	2	55	664828	1 mismatches	0	monomer
+chrXVI	666137	22	2	35	666141	1 mismatches	3	monomer
+chrXVI	667529	26	4	263	667527	TTACCCG	-2	monomer
+chrXVI	682071	27	4	1590	682072	TTACCCG	0	primary
+chrXVI	682123	43	2	72	-	3 mismatches	-	secondary
+chrXVI	682523	14	2	34	682515	2 mismatches	-8	secondary
+chrXVI	682572	36	2	77	-	3 mismatches	-	secondary
+chrXVI	682611	26	4	519	682611	TTACCCG	0	primary
+chrXVI	682681	6	2	23	-	3 mismatches	-	secondary
+chrXVI	689888	20	4	84	689890	TTACCCT	2	monomer
+chrXVI	695171	20	2	67	695159	2 mismatches	-11	secondary
+chrXVI	695217	27	4	1816	695218	TTACCCG	0	primary
+chrXVI	695270	38	3	55	695268	1 mismatches	-2	secondary
+chrXVI	696974	23	3	85	696972	TTACCCT	-2	monomer
+chrXVI	700278	33	3	31	700285	2 mismatches	7	secondary
+chrXVI	700317	29	3	136	700318	TTACCCG	1	primary
+chrXVI	719476	28	4	598	719477	1 mismatches	0	monomer
+chrXVI	730368	26	4	1273	730368	TTACCCG	0	primary
+chrXVI	730406	21	2	38	-	3 mismatches	-	secondary
+chrXVI	731990	29	3	110	731990	TTACCCG	0	monomer
+chrXVI	732120	46	3	36	-	3 mismatches	-	secondary
+chrXVI	732156	14	2	46	732160	1 mismatches	3	primary
+chrXVI	770832	14	3	80	770837	2 mismatches	5	secondary
+chrXVI	770869	27	4	1483	770869	TTACCCG	0	primary
+chrXVI	770907	24	2	85	-	3 mismatches	-	secondary
+chrXVI	797404	27	4	301	797405	TTACCCT	0	monomer
+chrXVI	818189	25	3	32	818189	TTACCCT	0	monomer
+chrXVI	821587	27	4	458	821587	TTACCCG	0	monomer
+chrXVI	829102	15	3	94	-	3 mismatches	-	secondary
+chrXVI	829147	50	2	104	829145	1 mismatches	-2	secondary
+chrXVI	829203	19	3	163	829199	TTACCCT	-4	primary
+chrXVI	829257	16	2	29	-	3 mismatches	-	secondary
+chrXVI	832097	28	2	25	832097	1 mismatches	0	monomer
+chrXVI	840465	14	2	84	-	3 mismatches	-	secondary
+chrXVI	840510	29	3	145	840524	2 mismatches	14	primary
+chrXVI	840552	23	2	82	-	3 mismatches	-	secondary
+chrXVI	840590	33	4	299	840593	TTACCCG	2	primary
+chrXVI	870475	48	2	60	870461	2 mismatches	-14	secondary
+chrXVI	870529	10	4	1081	870539	TTACCCG	9	primary
+chrXVI	870585	38	3	67	870599	2 mismatches	14	secondary
+chrXVI	899935	26	3	103	-	3 mismatches	-	secondary
+chrXVI	899988	40	4	202	900008	2 mismatches	20	secondary
+chrXVI	900032	28	4	3396	900033	TTACCCG	0	primary
+chrXVI	900087	18	2	108	900084	2 mismatches	-3	secondary
+chrXVI	900188	43	2	30	-	3 mismatches	-	secondary
+chrXVI	900238	28	2	31	900232	2 mismatches	-6	primary
+chrXVI	900368	52	3	18	900374	2 mismatches	5	monomer
